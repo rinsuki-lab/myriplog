@@ -1,0 +1,3 @@
+# riplog
+
+XLD ripping log
