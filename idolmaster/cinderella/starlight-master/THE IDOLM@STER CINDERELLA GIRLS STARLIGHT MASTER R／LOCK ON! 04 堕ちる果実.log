@@ -1,0 +1,145 @@
+X Lossless Decoder version 20211018 (154.0)
+
+XLD extraction logfile from 2022-04-22 13:29:47 +0900
+
+Various Artists / THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 04 堕ちる果実
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:07:34 |         0    |    23058   
+        2  | 05:07:34 | 04:22:48 |     23059    |    42756   
+        3  | 09:30:07 | 05:07:20 |     42757    |    65801   
+        4  | 14:37:27 | 04:24:74 |     65802    |    85675   
+        5  | 19:02:26 | 05:07:33 |     85676    |   108733   
+        6  | 24:09:59 | 05:07:38 |    108734    |   131796   
+        7  | 29:17:22 | 01:55:03 |    131797    |   140424   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/01 神崎蘭子、黒埼ちとせ - 堕ちる果実 (M@STER VERSION).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A2D979B7
+    CRC32 hash (skip zero)   : D710FFE1
+    AccurateRip v1 signature : A370961D
+    AccurateRip v2 signature : B31F6F88
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/02 渋谷凛 - Reflective illumination night.m4a
+    Pre-gap length : 00:02:13
+
+    CRC32 hash               : 710FF844
+    CRC32 hash (skip zero)   : 50BFC127
+    AccurateRip v1 signature : 959F6669
+    AccurateRip v2 signature : FF737ABD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/03 神崎蘭子、黒埼ちとせ - 堕ちる果実 (M@STER VERSION) (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:02:43
+
+    CRC32 hash               : 93B11D9D
+    CRC32 hash (skip zero)   : FB6A5D94
+    AccurateRip v1 signature : 54527139
+    AccurateRip v2 signature : E675E2DB
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/04 渋谷凛 - Reflective illumination night (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:02:23
+
+    CRC32 hash               : B2F5DBCD
+    CRC32 hash (skip zero)   : 7EEC6E54
+    AccurateRip v1 signature : 0BA33D22
+    AccurateRip v2 signature : 69F8FB1B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/05 神崎蘭子 - 堕ちる果実 (M@STER VERSION) (神崎蘭子ソロ・リミックス).m4a
+    Pre-gap length : 00:04:69
+
+    CRC32 hash               : 21FB6BED
+    CRC32 hash (skip zero)   : AB57BB00
+    AccurateRip v1 signature : 727FD00B
+    AccurateRip v2 signature : 4AA16113
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/06 黒埼ちとせ - 堕ちる果実 (M@STER VERSION) (黒埼ちとせソロ・リミックス).m4a
+    Pre-gap length : 00:02:31
+
+    CRC32 hash               : 0C83EF7D
+    CRC32 hash (skip zero)   : 2F9BBAB2
+    AccurateRip v1 signature : 7FFC8BE8
+    AccurateRip v2 signature : 01C62DCC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/07 神崎蘭子、黒埼ちとせ - 堕ちる果実 (Game Version).m4a
+    Pre-gap length : 00:02:37
+
+    CRC32 hash               : 59277D23
+    CRC32 hash (skip zero)   : 0D325851
+    AccurateRip v1 signature : 090888D4
+    AccurateRip v2 signature : 72A7E996
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
