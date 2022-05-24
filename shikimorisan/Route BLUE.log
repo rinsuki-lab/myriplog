@@ -1,0 +1,113 @@
+X Lossless Decoder version 20211018 (154.0)
+
+XLD extraction logfile from 2022-05-24 17:10:35 +0900
+
+中島由貴 / Route BLUE
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:50:30 |         0    |    17279   
+        2  | 03:50:30 | 04:19:62 |     17280    |    36766   
+        3  | 08:10:17 | 01:34:00 |     36767    |    43816   
+        4  | 09:44:17 | 03:49:52 |     43817    |    61043   
+        5  | 13:33:69 | 04:20:32 |     61044    |    80575   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/01 中島由貴 - Route BLUE.m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 8D90D644
+    CRC32 hash (skip zero)   : 45410FCB
+    AccurateRip v1 signature : 7C5C38A7
+    AccurateRip v2 signature : 15B0C4FF
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/02 中島由貴 - うつろいと君.m4a
+    Pre-gap length : 00:02:11
+
+    CRC32 hash               : 18ED4883
+    CRC32 hash (skip zero)   : D710B2C9
+    AccurateRip v1 signature : A5D24D66
+    AccurateRip v2 signature : E5A2DBDD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/03 中島由貴 - Route BLUE short ver..m4a
+    Pre-gap length : 00:01:00
+
+    CRC32 hash               : 2BB2DF7C
+    CRC32 hash (skip zero)   : 2CB758CC
+    AccurateRip v1 signature : 4E4AB468
+    AccurateRip v2 signature : 44FB33C2
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/04 中島由貴 - Route BLUE Instrumental.m4a
+    Pre-gap length : 00:02:69
+
+    CRC32 hash               : B61EC4A9
+    CRC32 hash (skip zero)   : A3C2777C
+    AccurateRip v1 signature : 3F04BD3E
+    AccurateRip v2 signature : 6AEED8F7
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/05 中島由貴 - うつろいと君 Instrumental.m4a
+    Pre-gap length : 00:02:04
+
+    CRC32 hash               : 9A1F61C6
+    CRC32 hash (skip zero)   : 0648498F
+    AccurateRip v1 signature : 916E467A
+    AccurateRip v2 signature : FD6374AD
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
