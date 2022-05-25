@@ -1,0 +1,135 @@
+X Lossless Decoder version 20211018 (154.0)
+
+XLD extraction logfile from 2022-05-25 13:43:15 +0900
+
+渋谷凛、早坂美玲、木村夏樹、小日向美穂、塩見周子 / THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 30 ガールズ・イン・ザ・フロンティア
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:15:35 |         0    |    19159   
+        2  | 04:15:35 | 05:36:73 |     19160    |    44432   
+        3  | 09:52:33 | 04:09:72 |     44433    |    63179   
+        4  | 14:02:30 | 04:15:62 |     63180    |    82366   
+        5  | 18:18:17 | 05:39:38 |     82367    |   107829   
+        6  | 23:57:55 | 01:56:20 |    107830    |   116549   
+
+AccurateRip Summary (DiscID: 00069d70-0023147d-45061206)
+    Track 01 : OK (v2, confidence 35/35)
+    Track 02 : OK (v2, confidence 36/36)
+    Track 03 : OK (v2, confidence 36/36)
+    Track 04 : OK (v2, confidence 35/35)
+    Track 05 : OK (v2, confidence 35/35)
+    Track 06 : OK (v2, confidence 35/35)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/01 渋谷凛、早坂美玲、木村夏樹、小日向美穂、塩見周子 - ガールズ・イン・ザ・フロンティア (M@STER VERSION).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 9155CABD
+    CRC32 hash (skip zero)   : 9DCF31DA
+    AccurateRip v1 signature : 56AF3517
+    AccurateRip v2 signature : BCC3294C
+        ->Accurately ripped (v2, confidence 35/35)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/02 市原仁奈 - おねえちゃんデスコ.m4a
+    Pre-gap length : 00:02:06
+
+    CRC32 hash               : 029AC677
+    CRC32 hash (skip zero)   : CBD55572
+    AccurateRip v1 signature : 61501EB7
+    AccurateRip v2 signature : 7AEF2329
+        ->Accurately ripped (v2, confidence 36/36)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/03 結城晴、赤城みりあ、脇山珠美、緒方智絵里、城ヶ崎美嘉 - 青空エール (M@STER VERSION).m4a
+    Pre-gap length : 00:01:65
+
+    CRC32 hash               : 1738307C
+    CRC32 hash (skip zero)   : 650DF860
+    AccurateRip v1 signature : 38DCB72B
+    AccurateRip v2 signature : 052E774D
+        ->Accurately ripped (v2, confidence 36/36)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/04 渋谷凛、早坂美玲、木村夏樹、小日向美穂、塩見周子 - ガールズ・イン・ザ・フロンティア (M@STER VERSION) (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:01:46
+
+    CRC32 hash               : 24F530A9
+    CRC32 hash (skip zero)   : AA7AB249
+    AccurateRip v1 signature : 2EFF5751
+    AccurateRip v2 signature : EA72F28E
+        ->Accurately ripped (v2, confidence 35/35)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/05 市原仁奈 - おねえちゃんデスコ (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:02:68
+
+    CRC32 hash               : 77E43F52
+    CRC32 hash (skip zero)   : E9FC0886
+    AccurateRip v1 signature : 4C4D9B98
+    AccurateRip v2 signature : CE9DAA25
+        ->Accurately ripped (v2, confidence 35/35)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/06 渋谷凛、早坂美玲、木村夏樹、小日向美穂、塩見周子 - ガールズ・イン・ザ・フロンティア (Game Version).m4a
+    Pre-gap length : 00:04:30
+
+    CRC32 hash               : 8CF2B848
+    CRC32 hash (skip zero)   : 690FB26E
+    AccurateRip v1 signature : 2210416C
+    AccurateRip v2 signature : 3774AA7D
+        ->Accurately ripped (v2, confidence 35/35)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
