@@ -1,0 +1,152 @@
+X Lossless Decoder version 20211018 (154.0)
+
+XLD extraction logfile from 2022-05-25 09:12:49 +0900
+
+島村卯月、渋谷凛、本田未央、佐藤心、三村かな子 / THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER 25 Happy New Yeah!
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:14:53 |         0    |    19102   
+        2  | 04:14:53 | 04:50:74 |     19103    |    40926   
+        3  | 09:05:52 | 04:44:36 |     40927    |    62262   
+        4  | 13:50:13 | 04:14:56 |     62263    |    81368   
+        5  | 18:04:69 | 04:51:01 |     81369    |   103194   
+        6  | 22:55:70 | 04:46:09 |    103195    |   124653   
+        7  | 27:42:04 | 02:05:11 |    124654    |   134039   
+
+AccurateRip Summary (DiscID: 0008a12f-003396d9-5e06fb07)
+    Track 01 : OK (v2, confidence 41/41)
+    Track 02 : OK (v2, confidence 41/41)
+    Track 03 : OK (v2, confidence 41/41)
+    Track 04 : OK (v2, confidence 39/39)
+    Track 05 : OK (v2, confidence 39/39)
+    Track 06 : OK (v2, confidence 39/39)
+    Track 07 : OK (v2, confidence 39/39)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/01 島村卯月、渋谷凛、本田未央、佐藤心、三村かな子 - Happy New Yeah! (M@STER VERSION).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 3B2E0461
+    CRC32 hash (skip zero)   : 73650291
+    AccurateRip v1 signature : ED60CCD4
+    AccurateRip v2 signature : 7FD59220
+        ->Accurately ripped (v2, confidence 41/41)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/02 十時愛梨 - ヒトトキトキメキ.m4a
+    Pre-gap length : 00:02:08
+
+    CRC32 hash               : 18D70447
+    CRC32 hash (skip zero)   : 1D994391
+    AccurateRip v1 signature : 446EF337
+    AccurateRip v2 signature : 34D6043C
+        ->Accurately ripped (v2, confidence 41/41)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/03 三船美優、藤原肇 - Nocturne 〜For SS3A Rearrange Mix〜.m4a
+    Pre-gap length : 00:01:65
+
+    CRC32 hash               : 6C74EC37
+    CRC32 hash (skip zero)   : 0911F3E4
+    AccurateRip v1 signature : 38442664
+    AccurateRip v2 signature : E67ADB99
+        ->Accurately ripped (v2, confidence 41/41)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/04 島村卯月、渋谷凛、本田未央、佐藤心、三村かな子 - Happy New Yeah! (M@STER VERSION) (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:03:37
+
+    CRC32 hash               : 10C10A99
+    CRC32 hash (skip zero)   : 33E6C51A
+    AccurateRip v1 signature : DFB8DEAB
+    AccurateRip v2 signature : FB53679A
+        ->Accurately ripped (v2, confidence 39/39)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/05 十時愛梨 - ヒトトキトキメキ (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:02:30
+
+    CRC32 hash               : 08571BAD
+    CRC32 hash (skip zero)   : EF86E398
+    AccurateRip v1 signature : B2D1D2C6
+    AccurateRip v2 signature : E1DB152B
+        ->Accurately ripped (v2, confidence 39/39)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/06 三船美優、藤原肇 - Nocturne 〜For SS3A Rearrange Mix〜 (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:01:67
+
+    CRC32 hash               : BD94792B
+    CRC32 hash (skip zero)   : 633FCFF3
+    AccurateRip v1 signature : 8EE94EFE
+    AccurateRip v2 signature : 52075142
+        ->Accurately ripped (v2, confidence 39/39)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/07 島村卯月、渋谷凛、本田未央、佐藤心、三村かな子 - Happy New Yeah! (Game Version).m4a
+    Pre-gap length : 00:05:03
+
+    CRC32 hash               : 88723F68
+    CRC32 hash (skip zero)   : 06741B67
+    AccurateRip v1 signature : FE3300B1
+    AccurateRip v2 signature : 158E694A
+        ->Accurately ripped (v2, confidence 39/39)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
