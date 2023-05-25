@@ -1,0 +1,258 @@
+X Lossless Decoder version 20230416 (156.0)
+
+XLD extraction logfile from 2023-05-25 15:08:07 +0900
+
+結束バンド / 結束バンド
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:23:47 |         0    |    15271   
+        2  | 03:23:47 | 03:52:18 |     15272    |    32689   
+        3  | 07:15:65 | 03:23:37 |     32690    |    47951   
+        4  | 10:39:27 | 03:52:20 |     47952    |    65371   
+        5  | 14:31:47 | 03:48:72 |     65372    |    82543   
+        6  | 18:20:44 | 03:08:74 |     82544    |    96717   
+        7  | 21:29:43 | 03:33:59 |     96718    |   112751   
+        8  | 25:03:27 | 04:25:10 |    112752    |   132636   
+        9  | 29:28:37 | 03:43:65 |    132637    |   149426   
+       10  | 33:12:27 | 03:47:27 |    149427    |   166478   
+       11  | 36:59:54 | 03:43:27 |    166479    |   183230   
+       12  | 40:43:06 | 04:18:13 |    183231    |   202593   
+       13  | 45:01:19 | 04:35:34 |    202594    |   223252   
+       14  | 49:36:53 | 04:31:61 |    223253    |   243638   
+
+AccurateRip Summary (DiscID: 001ac5c0-011fae6a-b20cb00e)
+    Track 01 : OK (v1+v2, confidence 89/89)
+    Track 02 : OK (v1+v2, confidence 89/89)
+    Track 03 : OK (v1+v2, confidence 89/89)
+    Track 04 : OK (v1+v2, confidence 89/89)
+    Track 05 : OK (v1+v2, confidence 89/89)
+    Track 06 : OK (v1+v2, confidence 89/89)
+    Track 07 : OK (v1+v2, confidence 89/89)
+    Track 08 : OK (v1+v2, confidence 89/89)
+    Track 09 : OK (v1+v2, confidence 89/89)
+    Track 10 : OK (v1+v2, confidence 89/89)
+    Track 11 : OK (v1+v2, confidence 89/89)
+    Track 12 : OK (v1+v2, confidence 89/89)
+    Track 13 : OK (v1+v2, confidence 89/89)
+    Track 14 : OK (v1+v2, confidence 90/90)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 結束バンド - 青春コンプレックス (JPE302200934).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 156FBA34
+    CRC32 hash (skip zero)   : 6083D7EC
+    AccurateRip v1 signature : 39484BB9
+    AccurateRip v2 signature : C2193878
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 結束バンド - ひとりぼっち東京 (JPE302200935).m4a
+
+    CRC32 hash               : AB7DCBC9
+    CRC32 hash (skip zero)   : C159A3BB
+    AccurateRip v1 signature : FC7D8929
+    AccurateRip v2 signature : 09AB1866
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 結束バンド - Distortion!! (JPE302201009).m4a
+
+    CRC32 hash               : 6537D6CE
+    CRC32 hash (skip zero)   : 06E20AD6
+    AccurateRip v1 signature : 5FE8FD35
+    AccurateRip v2 signature : 1ACFEEF8
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 結束バンド - ひみつ基地 (JPE302201061).m4a
+
+    CRC32 hash               : 03FC2F14
+    CRC32 hash (skip zero)   : DAA8C06F
+    AccurateRip v1 signature : D00D52C8
+    AccurateRip v2 signature : D6D2FC93
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 結束バンド - ギターと孤独と蒼い惑星 (JPE302201022).m4a
+
+    CRC32 hash               : 76FE0F9C
+    CRC32 hash (skip zero)   : 042130D3
+    AccurateRip v1 signature : 43C14916
+    AccurateRip v2 signature : 0A535247
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 結束バンド - ラブソングが歌えない (JPE302201062).m4a
+
+    CRC32 hash               : CD859127
+    CRC32 hash (skip zero)   : 2657FA5B
+    AccurateRip v1 signature : 3B81F40F
+    AccurateRip v2 signature : 6CF66F3D
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 結束バンド - あのバンド (JPE302201023).m4a
+
+    CRC32 hash               : D83D35E0
+    CRC32 hash (skip zero)   : 1F215708
+    AccurateRip v1 signature : EA8CC056
+    AccurateRip v2 signature : A8BBD29E
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 結束バンド - カラカラ (JPE302201019).m4a
+
+    CRC32 hash               : A1986473
+    CRC32 hash (skip zero)   : F63C0570
+    AccurateRip v1 signature : 3D4D9E0E
+    AccurateRip v2 signature : 3675127B
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 結束バンド - 小さな海 (JPE302201063).m4a
+
+    CRC32 hash               : B1EAC9D1
+    CRC32 hash (skip zero)   : 1E3E248B
+    AccurateRip v1 signature : E2B3C5C2
+    AccurateRip v2 signature : 1C1DA8DE
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/xld-out/10 結束バンド - なにが悪い (JPE302201021).m4a
+
+    CRC32 hash               : 3501122B
+    CRC32 hash (skip zero)   : 7FE93A51
+    AccurateRip v1 signature : A818BDBB
+    AccurateRip v2 signature : 2732DF9D
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/user/Desktop/xld-out/11 結束バンド - 忘れてやらない (JPE302201020).m4a
+
+    CRC32 hash               : 81D78F5E
+    CRC32 hash (skip zero)   : 709F3097
+    AccurateRip v1 signature : D4865482
+    AccurateRip v2 signature : E123B2D4
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/user/Desktop/xld-out/12 結束バンド - 星座になれたら (JPE302201032).m4a
+
+    CRC32 hash               : FEB83579
+    CRC32 hash (skip zero)   : CD549074
+    AccurateRip v1 signature : 61DA007E
+    AccurateRip v2 signature : 75F4874D
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Users/user/Desktop/xld-out/13 結束バンド - フラッシュバッカー (JPE302201064).m4a
+
+    CRC32 hash               : 5509BB79
+    CRC32 hash (skip zero)   : E8E9D9FD
+    AccurateRip v1 signature : A83012DC
+    AccurateRip v2 signature : 09601B97
+        ->Accurately ripped (v1+v2, confidence 2+87/89)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Users/user/Desktop/xld-out/14 結束バンド - 転がる岩、君に朝が降る (JPE302201024).m4a
+
+    CRC32 hash               : 250474AF
+    CRC32 hash (skip zero)   : 627EB2A9
+    AccurateRip v1 signature : F296804D
+    AccurateRip v2 signature : E858F6F7
+        ->Accurately ripped (v1+v2, confidence 2+88/90)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

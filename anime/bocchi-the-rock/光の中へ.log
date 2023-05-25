@@ -1,0 +1,97 @@
+X Lossless Decoder version 20230416 (156.0)
+
+XLD extraction logfile from 2023-05-25 14:59:45 +0900
+
+結束バンド / 光の中へ
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:18:20 |         0    |    19369   
+        2  | 04:18:20 | 04:13:01 |     19370    |    38345   
+        3  | 08:31:21 | 04:18:20 |     38346    |    57715   
+        4  | 12:49:41 | 04:11:27 |     57716    |    76567   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 結束バンド - 光の中へ (JPE302300187).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B740D36E
+    CRC32 hash (skip zero)   : 1A534EAE
+    AccurateRip v1 signature : 90B409F9
+    AccurateRip v2 signature : 9F904B3A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 結束バンド - 青い春と西の空 (JPE302300188).m4a
+    Pre-gap length : 00:01:50
+
+    CRC32 hash               : B2CD0F23
+    CRC32 hash (skip zero)   : 2DEE83D0
+    AccurateRip v1 signature : 5E0D4076
+    AccurateRip v2 signature : 7447CEC3
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 結束バンド - 光の中へ -instrumental- (JPE302300189).m4a
+    Pre-gap length : 00:01:50
+
+    CRC32 hash               : 0BF3E573
+    CRC32 hash (skip zero)   : 94EB40A3
+    AccurateRip v1 signature : F703E169
+    AccurateRip v2 signature : 9CA01DB1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 結束バンド - 青い春と西の空 -instrumental- (JPE302300190).m4a
+    Pre-gap length : 00:01:50
+
+    CRC32 hash               : E9E1CC77
+    CRC32 hash (skip zero)   : 5CDB6BDB
+    AccurateRip v1 signature : 65509E62
+    AccurateRip v2 signature : 4FD1D743
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
