@@ -1,0 +1,578 @@
+X Lossless Decoder version 20230416 (156.0)
+
+XLD extraction logfile from 2023-05-25 15:21:08 +0900
+
+Various Artists / Splatoon 2 ORIGINAL SOUNDTRACK -Splatune 2-
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 00:21:26 |         0    |     1600   
+        2  | 00:21:26 | 02:48:09 |      1601    |    14209   
+        3  | 03:09:35 | 02:25:26 |     14210    |    25110   
+        4  | 05:34:61 | 02:56:41 |     25111    |    38351   
+        5  | 08:31:27 | 03:06:49 |     38352    |    52350   
+        6  | 11:38:01 | 04:27:19 |     52351    |    72394   
+        7  | 16:05:20 | 01:05:23 |     72395    |    77292   
+        8  | 17:10:43 | 00:05:58 |     77293    |    77725   
+        9  | 17:16:26 | 01:13:02 |     77726    |    83202   
+       10  | 18:29:28 | 00:06:66 |     83203    |    83718   
+       11  | 18:36:19 | 01:34:44 |     83719    |    90812   
+       12  | 20:10:63 | 02:44:35 |     90813    |   103147   
+       13  | 22:55:23 | 02:07:00 |    103148    |   112672   
+       14  | 25:02:23 | 03:23:56 |    112673    |   127953   
+       15  | 28:26:04 | 02:44:32 |    127954    |   140285   
+       16  | 31:10:36 | 02:31:43 |    140286    |   151653   
+       17  | 33:42:04 | 02:16:45 |    151654    |   161898   
+       18  | 35:58:49 | 00:44:51 |    161899    |   165249   
+       19  | 36:43:25 | 01:53:16 |    165250    |   173740   
+       20  | 38:36:41 | 05:04:35 |    173741    |   196575   
+       21  | 43:41:01 | 01:48:53 |    196576    |   204728   
+       22  | 45:29:54 | 01:39:23 |    204729    |   212176   
+       23  | 47:09:02 | 01:46:24 |    212177    |   220150   
+       24  | 48:55:26 | 02:45:24 |    220151    |   232549   
+       25  | 51:40:50 | 01:53:30 |    232550    |   241054   
+       26  | 53:34:05 | 00:14:01 |    241055    |   242105   
+       27  | 53:48:06 | 03:09:18 |    242106    |   256298   
+       28  | 56:57:24 | 03:12:30 |    256299    |   270728   
+       29  | 60:09:54 | 02:49:36 |    270729    |   283439   
+       30  | 62:59:15 | 00:11:44 |    283440    |   284308   
+       31  | 63:10:59 | 00:08:56 |    284309    |   284964   
+       32  | 63:19:40 | 01:22:65 |    284965    |   291179   
+       33  | 64:42:30 | 01:25:18 |    291180    |   297572   
+       34  | 66:07:48 | 00:08:49 |    297573    |   298221   
+
+AccurateRip Summary (DiscID: 0054fba0-07f5cefa-ab0f8822)
+    Track 01 : OK (v2, confidence 47/47)
+    Track 02 : OK (v2, confidence 47/47)
+    Track 03 : OK (v2, confidence 47/47)
+    Track 04 : OK (v2, confidence 47/47)
+    Track 05 : OK (v2, confidence 47/47)
+    Track 06 : OK (v2, confidence 47/47)
+    Track 07 : OK (v2, confidence 47/47)
+    Track 08 : OK (v2, confidence 12/12)
+    Track 09 : OK (v2, confidence 47/47)
+    Track 10 : OK (v2, confidence 47/47)
+    Track 11 : OK (v2, confidence 47/47)
+    Track 12 : OK (v2, confidence 47/47)
+    Track 13 : OK (v2, confidence 47/47)
+    Track 14 : OK (v2, confidence 47/47)
+    Track 15 : OK (v2, confidence 47/47)
+    Track 16 : OK (v2, confidence 47/47)
+    Track 17 : OK (v2, confidence 47/47)
+    Track 18 : OK (v2, confidence 47/47)
+    Track 19 : OK (v2, confidence 46/46)
+    Track 20 : OK (v2, confidence 47/47)
+    Track 21 : OK (v2, confidence 47/47)
+    Track 22 : OK (v2, confidence 47/47)
+    Track 23 : OK (v2, confidence 47/47)
+    Track 24 : OK (v2, confidence 47/47)
+    Track 25 : OK (v2, confidence 47/47)
+    Track 26 : OK (v2, confidence 47/47)
+    Track 27 : OK (v2, confidence 47/47)
+    Track 28 : OK (v2, confidence 47/47)
+    Track 29 : OK (v2, confidence 47/47)
+    Track 30 : OK (v2, confidence 47/47)
+    Track 31 : OK (v2, confidence 47/47)
+    Track 32 : OK (v2, confidence 47/47)
+    Track 33 : OK (v2, confidence 47/47)
+    Track 34 : OK (v2, confidence 45/47)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 Wet Floor - Opening (NO_ISRC).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : FACCBCF1
+    CRC32 hash (skip zero)   : 0E9CBA37
+    AccurateRip v1 signature : F092F15A
+    AccurateRip v2 signature : FE7C637C
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 Wet Floor - Inkoming! (NO_ISRC).m4a
+
+    CRC32 hash               : CBB1BFEC
+    CRC32 hash (skip zero)   : 8BBE3E88
+    AccurateRip v1 signature : DDB14B39
+    AccurateRip v2 signature : 7368FEAB
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 Wet Floor - Rip Entry (NO_ISRC).m4a
+
+    CRC32 hash               : 91E165AD
+    CRC32 hash (skip zero)   : E2429D00
+    AccurateRip v1 signature : 1A8B5BCE
+    AccurateRip v2 signature : ADAF7204
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 Wet Floor - Undertow (NO_ISRC).m4a
+
+    CRC32 hash               : DB73A419
+    CRC32 hash (skip zero)   : B68EE550
+    AccurateRip v1 signature : 170C60DF
+    AccurateRip v2 signature : E71FB204
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 Wet Floor - Don't Slip (NO_ISRC).m4a
+
+    CRC32 hash               : 55365046
+    CRC32 hash (skip zero)   : B993EBEC
+    AccurateRip v1 signature : E80E20B6
+    AccurateRip v2 signature : 522C4938
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 Wet Floor - Endolphin Surge (NO_ISRC).m4a
+
+    CRC32 hash               : D656B55D
+    CRC32 hash (skip zero)   : A642F99B
+    AccurateRip v1 signature : F1E4D556
+    AccurateRip v2 signature : EE86C1B2
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 Wet Floor - Now or Never! (NO_ISRC).m4a
+
+    CRC32 hash               : E06347BA
+    CRC32 hash (skip zero)   : 6235FF67
+    AccurateRip v1 signature : 997F7D80
+    AccurateRip v2 signature : 232DF76B
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 Wet Floor - バトル 勝ちジングル (NO_ISRC).m4a
+
+    CRC32 hash               : BBA23BB8
+    CRC32 hash (skip zero)   : 4A224DA7
+    AccurateRip v1 signature : A414BBC8
+    AccurateRip v2 signature : 63871030
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 Wet Floor - Turf Master (NO_ISRC).m4a
+
+    CRC32 hash               : 2E138FE3
+    CRC32 hash (skip zero)   : F7EF88AC
+    AccurateRip v1 signature : CCA25A62
+    AccurateRip v2 signature : A9F42C5E
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/xld-out/10 Wet Floor - バトル 負けジングル (NO_ISRC).m4a
+
+    CRC32 hash               : 540BAF27
+    CRC32 hash (skip zero)   : 71C4768C
+    AccurateRip v1 signature : 8D42D5FE
+    AccurateRip v2 signature : B63695C0
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/user/Desktop/xld-out/11 Wet Floor - Ink Another Day (NO_ISRC).m4a
+
+    CRC32 hash               : F65B68EF
+    CRC32 hash (skip zero)   : 3A424B5E
+    AccurateRip v1 signature : 717A901C
+    AccurateRip v2 signature : 66516738
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/user/Desktop/xld-out/12 From Bottom - Shipwreckin' ～沈まばもろとも～ (NO_ISRC).m4a
+
+    CRC32 hash               : 7875038B
+    CRC32 hash (skip zero)   : C8536B01
+    AccurateRip v1 signature : A449280E
+    AccurateRip v2 signature : A0158C45
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Users/user/Desktop/xld-out/13 From Bottom - Fins & Fiddles ～深海の喜劇～ (NO_ISRC).m4a
+
+    CRC32 hash               : 59CC9138
+    CRC32 hash (skip zero)   : B12CA241
+    AccurateRip v1 signature : FB61E84E
+    AccurateRip v2 signature : 6EC71D62
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Users/user/Desktop/xld-out/14 From Bottom - Seafoam Shanty ～荒波ロデオ～ (NO_ISRC).m4a
+
+    CRC32 hash               : 9730075D
+    CRC32 hash (skip zero)   : 5117A129
+    AccurateRip v1 signature : 618E9CFB
+    AccurateRip v2 signature : CE67E44C
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /Users/user/Desktop/xld-out/15 カレントリップ - 可憐なタクティクス (NO_ISRC).m4a
+
+    CRC32 hash               : 91EAC1A0
+    CRC32 hash (skip zero)   : 23EDF0AC
+    AccurateRip v1 signature : A50DAFAB
+    AccurateRip v2 signature : 45A512E0
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /Users/user/Desktop/xld-out/16 カレントリップ - 不意打ちのセオリー (NO_ISRC).m4a
+
+    CRC32 hash               : 619F6893
+    CRC32 hash (skip zero)   : 9249E292
+    AccurateRip v1 signature : D426D114
+    AccurateRip v2 signature : 24DA6E3E
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /Users/user/Desktop/xld-out/17 Wet Floor - Inkoming! (Cloud Demo) (NO_ISRC).m4a
+
+    CRC32 hash               : 9D42E89E
+    CRC32 hash (skip zero)   : 98C7C26D
+    AccurateRip v1 signature : F513BD87
+    AccurateRip v2 signature : 11711100
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /Users/user/Desktop/xld-out/18 峰岸透 - ハイカラスクエア 初回入場 (NO_ISRC).m4a
+
+    CRC32 hash               : 509761C9
+    CRC32 hash (skip zero)   : 67B97044
+    AccurateRip v1 signature : 0238BE8A
+    AccurateRip v2 signature : 32E6FC8B
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /Users/user/Desktop/xld-out/19 峰岸透 - ハイカラスクエア チュートリアル (NO_ISRC).m4a
+
+    CRC32 hash               : B1CB976F
+    CRC32 hash (skip zero)   : D87782C1
+    AccurateRip v1 signature : E2570B25
+    AccurateRip v2 signature : C4201341
+        ->Accurately ripped (v2, confidence 46/46)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /Users/user/Desktop/xld-out/20 峰岸透 - ハイカラスクエア (NO_ISRC).m4a
+
+    CRC32 hash               : 53660CF6
+    CRC32 hash (skip zero)   : 54503D6B
+    AccurateRip v1 signature : 764424EE
+    AccurateRip v2 signature : 370CE110
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 21
+    Filename : /Users/user/Desktop/xld-out/21 峰岸透 - Without a Dop Doubt (NO_ISRC).m4a
+
+    CRC32 hash               : A1848DF7
+    CRC32 hash (skip zero)   : 5C57E05F
+    AccurateRip v1 signature : 9AA2F29C
+    AccurateRip v2 signature : AC20877F
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 22
+    Filename : /Users/user/Desktop/xld-out/22 峰岸透 - イカッチャ (NO_ISRC).m4a
+
+    CRC32 hash               : 7F6E7DDD
+    CRC32 hash (skip zero)   : F24FE6F9
+    AccurateRip v1 signature : BDB033FE
+    AccurateRip v2 signature : E0504711
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 23
+    Filename : /Users/user/Desktop/xld-out/23 Cala Marley - Ika Jamaica (DIY Remix) (NO_ISRC).m4a
+
+    CRC32 hash               : FC7D3240
+    CRC32 hash (skip zero)   : 63405004
+    AccurateRip v1 signature : 4D5F1A34
+    AccurateRip v2 signature : 595C43DF
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 24
+    Filename : /Users/user/Desktop/xld-out/24 DJ Real Sole - New You (NO_ISRC).m4a
+
+    CRC32 hash               : 0C7FF5FF
+    CRC32 hash (skip zero)   : 73CCDA40
+    AccurateRip v1 signature : 65CFB482
+    AccurateRip v2 signature : D7D5C318
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 25
+    Filename : /Users/user/Desktop/xld-out/25 クマサン商会 - カガヤクンデス・マーチ (NO_ISRC).m4a
+
+    CRC32 hash               : A58FE2E5
+    CRC32 hash (skip zero)   : 0D7FF6F6
+    AccurateRip v1 signature : 662349E0
+    AccurateRip v2 signature : B99794B5
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 26
+    Filename : /Users/user/Desktop/xld-out/26 クマサン商会 - サーモンラン オープニング (NO_ISRC).m4a
+
+    CRC32 hash               : 51C40218
+    CRC32 hash (skip zero)   : BFFAA2BE
+    AccurateRip v1 signature : 5C91A993
+    AccurateRip v2 signature : 65205780
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 27
+    Filename : /Users/user/Desktop/xld-out/27 ω-3 - 膏肓 (NO_ISRC).m4a
+
+    CRC32 hash               : DAFB3C71
+    CRC32 hash (skip zero)   : 293F6CF5
+    AccurateRip v1 signature : FD85A5B8
+    AccurateRip v2 signature : 5F6B11AF
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 28
+    Filename : /Users/user/Desktop/xld-out/28 ω-3 - 囂々 (NO_ISRC).m4a
+
+    CRC32 hash               : 9A61900E
+    CRC32 hash (skip zero)   : 67861684
+    AccurateRip v1 signature : A788C95C
+    AccurateRip v2 signature : 6678CE7F
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 29
+    Filename : /Users/user/Desktop/xld-out/29 ω-3 - 竜穴 (NO_ISRC).m4a
+
+    CRC32 hash               : 5D823692
+    CRC32 hash (skip zero)   : CF231274
+    AccurateRip v1 signature : 5D5A56E9
+    AccurateRip v2 signature : 39B4E1AA
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 30
+    Filename : /Users/user/Desktop/xld-out/30 クマサン商会 - サーモンラン 成功ジングル (NO_ISRC).m4a
+
+    CRC32 hash               : 442F8045
+    CRC32 hash (skip zero)   : 07E8F42B
+    AccurateRip v1 signature : B99DE3E8
+    AccurateRip v2 signature : FC65C780
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 31
+    Filename : /Users/user/Desktop/xld-out/31 クマサン商会 - サーモンラン 失敗ジングル (NO_ISRC).m4a
+
+    CRC32 hash               : E404DCD1
+    CRC32 hash (skip zero)   : 19120343
+    AccurateRip v1 signature : 295F24D5
+    AccurateRip v2 signature : 5E341485
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 32
+    Filename : /Users/user/Desktop/xld-out/32 クマサン商会 - キット・モット (NO_ISRC).m4a
+
+    CRC32 hash               : ED54C104
+    CRC32 hash (skip zero)   : 94716670
+    AccurateRip v1 signature : 3169A328
+    AccurateRip v2 signature : 30BA1CF4
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 33
+    Filename : /Users/user/Desktop/xld-out/33 テンタクルズ - ハイカラニュース (NO_ISRC).m4a
+
+    CRC32 hash               : 49CC0015
+    CRC32 hash (skip zero)   : 6B50D081
+    AccurateRip v1 signature : 1D45280C
+    AccurateRip v2 signature : FE28B1E9
+        ->Accurately ripped (v2, confidence 47/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 34
+    Filename : /Users/user/Desktop/xld-out/34 テンタクルズ - フェス お題発表 (NO_ISRC).m4a
+
+    CRC32 hash               : BD188759
+    CRC32 hash (skip zero)   : 6C9D825E
+    AccurateRip v1 signature : 418E1880
+    AccurateRip v2 signature : A224B625
+        ->Accurately ripped (v2, confidence 45/47)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

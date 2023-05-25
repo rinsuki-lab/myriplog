@@ -1,0 +1,506 @@
+X Lossless Decoder version 20230416 (156.0)
+
+XLD extraction logfile from 2023-05-25 15:58:03 +0900
+
+Various Artists / Splatoon3 ORIGINAL SOUNDTRACK -Splatune3-
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 02:06:01 |         0    |     9450   
+        2  | 02:06:01 | 02:45:04 |      9451    |    21829   
+        3  | 04:51:05 | 03:08:64 |     21830    |    35993   
+        4  | 07:59:69 | 00:09:14 |     35994    |    36682   
+        5  | 08:09:08 | 02:37:29 |     36683    |    48486   
+        6  | 10:46:37 | 02:51:17 |     48487    |    61328   
+        7  | 13:37:54 | 03:55:62 |     61329    |    79015   
+        8  | 17:33:41 | 03:54:63 |     79016    |    96628   
+        9  | 21:28:29 | 04:34:24 |     96629    |   117202   
+       10  | 26:02:53 | 04:06:39 |    117203    |   135691   
+       11  | 30:09:17 | 03:29:25 |    135692    |   151391   
+       12  | 33:38:42 | 04:07:07 |    151392    |   169923   
+       13  | 37:45:49 | 02:30:55 |    169924    |   181228   
+       14  | 40:16:29 | 02:38:34 |    181229    |   193112   
+       15  | 42:54:63 | 03:22:01 |    193113    |   208263   
+       16  | 46:16:64 | 04:10:59 |    208264    |   227072   
+       17  | 50:27:48 | 01:58:24 |    227073    |   235946   
+       18  | 52:25:72 | 01:22:08 |    235947    |   242104   
+       19  | 53:48:05 | 02:28:12 |    242105    |   253216   
+       20  | 56:16:17 | 02:22:12 |    253217    |   263878   
+       21  | 58:38:29 | 03:23:24 |    263879    |   279127   
+       22  | 62:01:53 | 03:18:41 |    279128    |   294018   
+       23  | 65:20:19 | 02:18:55 |    294019    |   304423   
+       24  | 67:38:74 | 03:58:44 |    304424    |   322317   
+       25  | 71:37:43 | 03:28:39 |    322318    |   337956   
+       26  | 75:06:07 | 00:12:59 |    337957    |   338915   
+       27  | 75:18:66 | 00:06:23 |    338916    |   339388   
+       28  | 75:25:14 | 00:06:27 |    339389    |   339865   
+
+AccurateRip Summary (DiscID: 00513eba-06603141-9011b31c)
+    Track 01 : OK (v2, confidence 1/1)
+    Track 02 : OK (v2, confidence 1/1)
+    Track 03 : OK (v2, confidence 1/1)
+    Track 04 : OK (v2, confidence 1/1)
+    Track 05 : OK (v2, confidence 1/1)
+    Track 06 : OK (v2, confidence 1/1)
+    Track 07 : OK (v2, confidence 1/1)
+    Track 08 : OK (v2, confidence 1/1)
+    Track 09 : OK (v2, confidence 1/1)
+    Track 10 : OK (v2, confidence 1/1)
+    Track 11 : OK (v2, confidence 1/1)
+    Track 12 : OK (v2, confidence 1/1)
+    Track 13 : OK (v2, confidence 1/1)
+    Track 14 : OK (v2, confidence 1/1)
+    Track 15 : OK (v2, confidence 1/1)
+    Track 16 : OK (v2, confidence 1/1)
+    Track 17 : OK (v2, confidence 1/1)
+    Track 18 : OK (v2, confidence 1/1)
+    Track 19 : OK (v2, confidence 1/1)
+    Track 20 : OK (v2, confidence 1/1)
+    Track 21 : OK (v2, confidence 1/1)
+    Track 22 : OK (v2, confidence 1/1)
+    Track 23 : OK (v2, confidence 1/1)
+    Track 24 : OK (v2, confidence 1/1)
+    Track 25 : OK (v2, confidence 1/1)
+    Track 26 : OK (v2, confidence 1/1)
+    Track 27 : Not Found
+    Track 28 : Not Found
+        ->26 tracks accurately ripped, 2 tracks not found
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 峰岸透 - アタリメのテーマ (NO_ISRC).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A8DF4E5B
+    CRC32 hash (skip zero)   : 058F3AF9
+    AccurateRip v1 signature : F70DFA4D
+    AccurateRip v2 signature : 04790D98
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 峰岸透 - クレーター (NO_ISRC).m4a
+
+    CRC32 hash               : FF1188B1
+    CRC32 hash (skip zero)   : 655CA98B
+    AccurateRip v1 signature : 1B4DB130
+    AccurateRip v2 signature : 65446A10
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 OCTOTOOL - Crater Eighters Routine (NO_ISRC).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : C0126A26
+    CRC32 hash (skip zero)   : 2E0C1179
+    AccurateRip v1 signature : 70B33B68
+    AccurateRip v2 signature : 2C4B475F
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 OCTOTOOL - Mission Clear!（クレーター） (NO_ISRC).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : 3EF2C404
+    CRC32 hash (skip zero)   : 978D5A49
+    AccurateRip v1 signature : 83ED8A8F
+    AccurateRip v2 signature : D4310326
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 DJ Octavio - I'm Octavio (F34RME Remix) (NO_ISRC).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 4B83A178
+    CRC32 hash (skip zero)   : 905F6CE0
+    AccurateRip v1 signature : 30405006
+    AccurateRip v2 signature : 92F44486
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 峰岸透, 藤井志帆 - New!カラストンビ部隊との出会い (NO_ISRC).m4a
+    Pre-gap length : 00:01:74
+
+    CRC32 hash               : 02EB9796
+    CRC32 hash (skip zero)   : 3F7ED6CC
+    AccurateRip v1 signature : F21BDAB5
+    AccurateRip v2 signature : 0674AFEC
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 Stars in the Deep - Sandcastles (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 1B347EBD
+    CRC32 hash (skip zero)   : DF1B54EE
+    AccurateRip v1 signature : 326C4DF9
+    AccurateRip v2 signature : 0DDA0214
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 Mimicry - Sudden Depth (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 636D1A74
+    CRC32 hash (skip zero)   : 8B1F476A
+    AccurateRip v1 signature : 5233D523
+    AccurateRip v2 signature : F351C34D
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 Wash Out - Two Shadows in the Sun (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 105ECA50
+    CRC32 hash (skip zero)   : D05AE047
+    AccurateRip v1 signature : 9A0EC27D
+    AccurateRip v2 signature : 2CEA8B99
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/xld-out/10 Firefly - Dead Sea (NO_ISRC).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : 65772352
+    CRC32 hash (skip zero)   : EC844F55
+    AccurateRip v1 signature : F2FF3D21
+    AccurateRip v2 signature : 6CAC5227
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/user/Desktop/xld-out/11 On the Clock - Whirlpool Tune (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 5ADC3196
+    CRC32 hash (skip zero)   : 2FE311EE
+    AccurateRip v1 signature : 9DA87EF6
+    AccurateRip v2 signature : 5C354B8E
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/user/Desktop/xld-out/12 Anxiety Society - Hyper Diver (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 70E22500
+    CRC32 hash (skip zero)   : B5EB06AD
+    AccurateRip v1 signature : 174CE6C7
+    AccurateRip v2 signature : FA8C53C7
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Users/user/Desktop/xld-out/13 須戸敏之 - オルタナ市民プログラム M-01：スタンダードコース（朝霧の海岸線） (NO_ISRC).m4a
+    Pre-gap length : 00:02:37
+
+    CRC32 hash               : 45514F6C
+    CRC32 hash (skip zero)   : 9FE90C38
+    AccurateRip v1 signature : 0F15A0A5
+    AccurateRip v2 signature : 9EAC1CDD
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Users/user/Desktop/xld-out/14 MOF8 - Nine out of Tension (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 537125BA
+    CRC32 hash (skip zero)   : 65AFD65A
+    AccurateRip v1 signature : C037E55E
+    AccurateRip v2 signature : 2A235245
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /Users/user/Desktop/xld-out/15 MOF8 - Underwater Neon (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : C278ACEA
+    CRC32 hash (skip zero)   : C7C05227
+    AccurateRip v1 signature : 90A5AD7B
+    AccurateRip v2 signature : 35132192
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 16
+    Filename : /Users/user/Desktop/xld-out/16 MOF8 - Flop to It (NO_ISRC).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : A9755471
+    CRC32 hash (skip zero)   : D8588480
+    AccurateRip v1 signature : 6E23025B
+    AccurateRip v2 signature : 253358CF
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 17
+    Filename : /Users/user/Desktop/xld-out/17 OCTOTOOL - Tacozones Rendezvous (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 5A08A243
+    CRC32 hash (skip zero)   : 25FEDE95
+    AccurateRip v1 signature : 8994E953
+    AccurateRip v2 signature : 77F95E3D
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 18
+    Filename : /Users/user/Desktop/xld-out/18 須戸敏之 - オルタナ市民プログラム M-02：チャレンジコース（夕暮れのオフショア） (NO_ISRC).m4a
+    Pre-gap length : 00:01:74
+
+    CRC32 hash               : C3300FC4
+    CRC32 hash (skip zero)   : DF92DD17
+    AccurateRip v1 signature : 13C8CE76
+    AccurateRip v2 signature : E426DF19
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 19
+    Filename : /Users/user/Desktop/xld-out/19 MOF8 - Smoke and Mirrors (NO_ISRC).m4a
+    Pre-gap length : 00:01:25
+
+    CRC32 hash               : 7B9CFAC5
+    CRC32 hash (skip zero)   : B34F9D93
+    AccurateRip v1 signature : E8EBE546
+    AccurateRip v2 signature : 7EA5D690
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 20
+    Filename : /Users/user/Desktop/xld-out/20 MOF8 - Ride or Fry (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 2E680026
+    CRC32 hash (skip zero)   : 18D6616F
+    AccurateRip v1 signature : C9C9C813
+    AccurateRip v2 signature : 226FBDE6
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 21
+    Filename : /Users/user/Desktop/xld-out/21 MOF8 - With Flying Colors (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 0C159404
+    CRC32 hash (skip zero)   : 64C16F7D
+    AccurateRip v1 signature : 244B83A2
+    AccurateRip v2 signature : 34972001
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 22
+    Filename : /Users/user/Desktop/xld-out/22 MOF8 - Seep & Destroy (NO_ISRC).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : 2BEF6B85
+    CRC32 hash (skip zero)   : CC9276BA
+    AccurateRip v1 signature : 3ECA8DBD
+    AccurateRip v2 signature : 205D2F07
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 23
+    Filename : /Users/user/Desktop/xld-out/23 MOF8 - Marine Machines (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : A637C1C4
+    CRC32 hash (skip zero)   : 30EDE5B6
+    AccurateRip v1 signature : 5B7E44E5
+    AccurateRip v2 signature : C97FD9ED
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 24
+    Filename : /Users/user/Desktop/xld-out/24 MOF8 - #35 Caught (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 5B8A5AA5
+    CRC32 hash (skip zero)   : B7F16670
+    AccurateRip v1 signature : E4C68898
+    AccurateRip v2 signature : 9C730668
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 25
+    Filename : /Users/user/Desktop/xld-out/25 MOF8 - Don't Flinch (NO_ISRC).m4a
+    Pre-gap length : 00:01:37
+
+    CRC32 hash               : 4CD812D4
+    CRC32 hash (skip zero)   : 7C52EBCD
+    AccurateRip v1 signature : DF70D53A
+    AccurateRip v2 signature : 6C0E49DE
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 26
+    Filename : /Users/user/Desktop/xld-out/26 須戸敏之 - Mission Clear!（オルタナ） (NO_ISRC).m4a
+
+    CRC32 hash               : BDC30FE1
+    CRC32 hash (skip zero)   : 74010E97
+    AccurateRip v1 signature : 42C976DE
+    AccurateRip v2 signature : 2C8997E9
+        ->Accurately ripped (v2, confidence 1/1)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 27
+    Filename : /Users/user/Desktop/xld-out/27 土肥紗也子 - ゲットジングル（オルタナ） (NO_ISRC).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : 081EB8BF
+    CRC32 hash (skip zero)   : 53C20DA0
+    AccurateRip v1 signature : AB337DC5
+    AccurateRip v2 signature : 1D856CD9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 28
+    Filename : /Users/user/Desktop/xld-out/28 土肥紗也子 - ゲットジングル（ゴールドディスク） (NO_ISRC).m4a
+
+    CRC32 hash               : B302F7D6
+    CRC32 hash (skip zero)   : 1CA8C576
+    AccurateRip v1 signature : EAB137DB
+    AccurateRip v2 signature : AA6C068C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
