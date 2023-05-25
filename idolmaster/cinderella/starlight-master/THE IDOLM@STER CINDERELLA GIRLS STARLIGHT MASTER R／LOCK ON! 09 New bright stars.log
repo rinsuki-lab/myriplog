@@ -1,0 +1,203 @@
+X Lossless Decoder version 20230416 (156.0)
+
+XLD extraction logfile from 2023-05-18 15:47:15 +0900
+
+Various Artists / THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER R/LOCK ON! 09 New bright stars
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:38:47 |         0    |    20896   
+        2  | 04:38:47 | 04:30:36 |     20897    |    41182   
+        3  | 09:09:08 | 04:38:56 |     41183    |    62088   
+        4  | 13:47:64 | 04:32:49 |     62089    |    82537   
+        5  | 18:20:38 | 04:38:24 |     82538    |   103411   
+        6  | 22:58:62 | 04:38:23 |    103412    |   124284   
+        7  | 27:37:10 | 04:38:23 |    124285    |   145157   
+        8  | 32:15:33 | 04:38:24 |    145158    |   166031   
+        9  | 36:53:57 | 04:38:23 |    166032    |   186904   
+       10  | 41:32:05 | 02:08:69 |    186905    |   196573   
+
+AccurateRip Summary (DiscID: 00113a71-008962fd-800a3c0a)
+    Track 01 : OK (v2, confidence 11/11)
+    Track 02 : OK (v2, confidence 12/12)
+    Track 03 : OK (v2, confidence 12/12)
+    Track 04 : OK (v2, confidence 12/12)
+    Track 05 : OK (v2, confidence 12/12)
+    Track 06 : OK (v2, confidence 12/12)
+    Track 07 : OK (v2, confidence 12/12)
+    Track 08 : OK (v2, confidence 12/12)
+    Track 09 : OK (v2, confidence 12/12)
+    Track 10 : OK (v2, confidence 12/12)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/01 小日向美穂、浅利七海、桐生つかさ、城ヶ崎美嘉、向井拓海 - New bright stars (M@STER VERSION).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : D18EF988
+    CRC32 hash (skip zero)   : 9B7C22AD
+    AccurateRip v1 signature : 540DC95B
+    AccurateRip v2 signature : 8E748D0F
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/02 本田未央 - DELIGHT.m4a
+    Pre-gap length : 00:02:04
+
+    CRC32 hash               : 247EEB36
+    CRC32 hash (skip zero)   : 751D8CAC
+    AccurateRip v1 signature : CE47C749
+    AccurateRip v2 signature : D133D554
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/03 小日向美穂、浅利七海、桐生つかさ、城ヶ崎美嘉、向井拓海 - New bright stars (M@STER VERSION) (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : C085FE80
+    CRC32 hash (skip zero)   : CB06853C
+    AccurateRip v1 signature : 1E23D6A1
+    AccurateRip v2 signature : 92927A53
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/04 本田未央 - DELIGHT (オリジナル・カラオケ).m4a
+    Pre-gap length : 00:02:31
+
+    CRC32 hash               : E6F0F578
+    CRC32 hash (skip zero)   : 370509D8
+    AccurateRip v1 signature : 5CA7BB22
+    AccurateRip v2 signature : ABD10F46
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/05 小日向美穂 - New bright stars (M@STER VERSION) (小日向美穂ソロ・リミックス).m4a
+    Pre-gap length : 00:04:56
+
+    CRC32 hash               : 9E239D29
+    CRC32 hash (skip zero)   : 9A9CEAF6
+    AccurateRip v1 signature : 0E5003E6
+    AccurateRip v2 signature : 433C2FE7
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/06 浅利七海 - New bright stars (M@STER VERSION) (浅利七海ソロ・リミックス).m4a
+    Pre-gap length : 00:01:73
+
+    CRC32 hash               : 064394B3
+    CRC32 hash (skip zero)   : C6C8DC96
+    AccurateRip v1 signature : 9616380A
+    AccurateRip v2 signature : F6E26CD8
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/07 桐生つかさ - New bright stars (M@STER VERSION) (桐生つかさソロ・リミックス).m4a
+    Pre-gap length : 00:01:73
+
+    CRC32 hash               : 01616B36
+    CRC32 hash (skip zero)   : 04E8B47F
+    AccurateRip v1 signature : 4037D9CA
+    AccurateRip v2 signature : 83BD6296
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/08 城ヶ崎美嘉 - New bright stars (M@STER VERSION) (城ヶ崎美嘉ソロ・リミックス).m4a
+    Pre-gap length : 00:01:72
+
+    CRC32 hash               : CF704CFD
+    CRC32 hash (skip zero)   : 76DEBB00
+    AccurateRip v1 signature : 0DA46B1E
+    AccurateRip v2 signature : 39168F73
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/09 向井拓海 - New bright stars (M@STER VERSION) (向井拓海ソロ・リミックス).m4a
+    Pre-gap length : 00:01:73
+
+    CRC32 hash               : A0ECAA3B
+    CRC32 hash (skip zero)   : DF1D33D4
+    AccurateRip v1 signature : FEA5F22E
+    AccurateRip v2 signature : C75AE2FC
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/10 小日向美穂、浅利七海、桐生つかさ、城ヶ崎美嘉、向井拓海 - New bright stars (Game Version).m4a
+    Pre-gap length : 00:01:72
+
+    CRC32 hash               : C170363E
+    CRC32 hash (skip zero)   : 8459730E
+    AccurateRip v1 signature : 53FFEC6D
+    AccurateRip v2 signature : 7F985C8D
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
