@@ -1,0 +1,214 @@
+X Lossless Decoder version 20230416 (156.0)
+
+XLD extraction logfile from 2023-05-25 14:31:10 +0900
+
+緑黄色社会 / pink blue
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:56:31 |         0    |    17730   
+        2  | 03:56:31 | 04:06:30 |     17731    |    36210   
+        3  | 08:02:61 | 04:25:11 |     36211    |    56096   
+        4  | 12:27:72 | 03:41:22 |     56097    |    72693   
+        5  | 16:09:19 | 03:34:44 |     72694    |    88787   
+        6  | 19:43:63 | 04:57:70 |     88788    |   111132   
+        7  | 24:41:58 | 04:24:28 |    111133    |   130960   
+        8  | 29:06:11 | 04:57:71 |    130961    |   153306   
+        9  | 34:04:07 | 03:47:38 |    153307    |   170369   
+       10  | 37:51:45 | 04:35:42 |    170370    |   191036   
+       11  | 42:27:12 | 03:52:45 |    191037    |   208481   
+       12  | 46:19:57 | 02:44:62 |    208482    |   220843   
+
+AccurateRip Summary
+    Disc not found in AccurateRip DB.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 緑黄色社会 - ピンクブルー (JPU902301758).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 370B0E96
+    CRC32 hash (skip zero)   : 9AA0A413
+    AccurateRip v1 signature : F9CB61F4
+    AccurateRip v2 signature : 9D7F7D02
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 緑黄色社会 - Starry Drama (JPU902301759).m4a
+
+    CRC32 hash               : 46B9307A
+    CRC32 hash (skip zero)   : 4A136EF0
+    AccurateRip v1 signature : 3DCA36DD
+    AccurateRip v2 signature : 4991CE84
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 緑黄色社会 - ジブンセイフク (JPU902301760).m4a
+
+    CRC32 hash               : 7DC8FA61
+    CRC32 hash (skip zero)   : 033FABE0
+    AccurateRip v1 signature : 9AF10B78
+    AccurateRip v2 signature : 87ACA91A
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 緑黄色社会 - あうん (JPU902301761).m4a
+
+    CRC32 hash               : 5387310A
+    CRC32 hash (skip zero)   : FC06F441
+    AccurateRip v1 signature : 3F631259
+    AccurateRip v2 signature : A587CC74
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 緑黄色社会 - ミチヲユケ (JPU902203720).m4a
+
+    CRC32 hash               : 43437BC8
+    CRC32 hash (skip zero)   : 3D082D06
+    AccurateRip v1 signature : FF8343FC
+    AccurateRip v2 signature : 11E797C5
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 緑黄色社会 - うそつき (JPU902301762).m4a
+
+    CRC32 hash               : 1FE11C4D
+    CRC32 hash (skip zero)   : 8E5CA958
+    AccurateRip v1 signature : 352E00A9
+    AccurateRip v2 signature : A07BB05C
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 緑黄色社会 - 陽はまた昇るから (JPU902201128).m4a
+
+    CRC32 hash               : 71D6BAF2
+    CRC32 hash (skip zero)   : 11D13C89
+    AccurateRip v1 signature : 35137075
+    AccurateRip v2 signature : 1EB58D58
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 緑黄色社会 - 湿気っている (JPU902301763).m4a
+
+    CRC32 hash               : F97EFEBB
+    CRC32 hash (skip zero)   : 6D77CD66
+    AccurateRip v1 signature : 86B7C6EA
+    AccurateRip v2 signature : 960DB18B
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 緑黄色社会 - Don!! (JPU902203721).m4a
+
+    CRC32 hash               : F1EB77EE
+    CRC32 hash (skip zero)   : 4B59B04D
+    AccurateRip v1 signature : 0E83B91F
+    AccurateRip v2 signature : 8147CBCC
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/xld-out/10 緑黄色社会 - White Rabbit (JPU902300546).m4a
+
+    CRC32 hash               : EC8667C0
+    CRC32 hash (skip zero)   : 324ED37C
+    AccurateRip v1 signature : 6DAE643A
+    AccurateRip v2 signature : 9383FBA9
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/user/Desktop/xld-out/11 緑黄色社会 - さもなくば誰がやる (JPU902301764).m4a
+
+    CRC32 hash               : 651203C3
+    CRC32 hash (skip zero)   : 7DD6784C
+    AccurateRip v1 signature : 3FE37648
+    AccurateRip v2 signature : E96FF2E1
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/user/Desktop/xld-out/12 緑黄色社会 - Slow Dance (JPU902301765).m4a
+
+    CRC32 hash               : B6F31843
+    CRC32 hash (skip zero)   : 41988C84
+    AccurateRip v1 signature : D56E36CE
+    AccurateRip v2 signature : 9ACC7E49
+        ->Track not present in AccurateRip database.
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
