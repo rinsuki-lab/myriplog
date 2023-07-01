@@ -1,0 +1,152 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-07-01 15:08:57 +0900
+
+天海春香、萩原雪歩、高槻やよい、三浦あずさ、菊地真、双海真美、詩花 / THE IDOLM@STER STELLA MASTER 03 そしてぼくらは旅にでる
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:55:01 |         0    |    17625   
+        2  | 03:55:01 | 24:51:19 |     17626    |   129469   
+        3  | 28:46:20 | 03:37:16 |    129470    |   145760   
+        4  | 32:23:36 | 02:35:37 |    145761    |   157422   
+        5  | 34:58:73 | 03:56:38 |    157423    |   175160   
+        6  | 38:55:36 | 03:58:21 |    175161    |   193031   
+        7  | 42:53:57 | 03:57:10 |    193032    |   210816   
+
+AccurateRip Summary (DiscID: 000fb4aa-0059c2b4-580afa07)
+    Track 01 : OK (v2, confidence 30/30)
+    Track 02 : OK (v2, confidence 28/28)
+    Track 03 : OK (v2, confidence 28/28)
+    Track 04 : OK (v2, confidence 28/28)
+    Track 05 : OK (v2, confidence 28/28)
+    Track 06 : OK (v2, confidence 30/30)
+    Track 07 : OK (v2, confidence 28/28)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 天海春香、萩原雪歩、高槻やよい、三浦あずさ - そしてぼくらは旅にでる (M@STER VERSION) (JPCO01809350).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 6FA16727
+    CRC32 hash (skip zero)   : 7781805B
+    AccurateRip v1 signature : C90CC237
+    AccurateRip v2 signature : 103CD069
+        ->Accurately ripped (v2, confidence 30/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 天海春香、萩原雪歩、高槻やよい、三浦あずさ - そしてぼくらは旅にでる オリジナル・ドラマ (JPCO01809420).m4a
+    Pre-gap length : 00:01:03
+
+    CRC32 hash               : 8E7B82E6
+    CRC32 hash (skip zero)   : A529953C
+    AccurateRip v1 signature : 878D9A63
+    AccurateRip v2 signature : E9876C36
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 詩花 - そしてぼくらは旅にでる オリジナル・ドラマ おまけトーク その1 (JPCO01809430).m4a
+    Pre-gap length : 00:04:62
+
+    CRC32 hash               : 286A6155
+    CRC32 hash (skip zero)   : 59C041FA
+    AccurateRip v1 signature : F6C8619D
+    AccurateRip v2 signature : 38125BFB
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 天海春香、萩原雪歩、高槻やよい、三浦あずさ - そしてぼくらは旅にでる オリジナル・ドラマ おまけトーク その2 (JPCO01809440).m4a
+    Pre-gap length : 00:01:15
+
+    CRC32 hash               : 7F2860F6
+    CRC32 hash (skip zero)   : 875F14C2
+    AccurateRip v1 signature : F7CF6073
+    AccurateRip v2 signature : 528FBBF8
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 天海春香、萩原雪歩、高槻やよい、三浦あずさ - そしてぼくらは旅にでる (M@STER VERSION) (オリジナル・カラオケ) (JPCO01809359).m4a
+    Pre-gap length : 00:00:69
+
+    CRC32 hash               : 8B40391C
+    CRC32 hash (skip zero)   : C58DD58E
+    AccurateRip v1 signature : 43C72573
+    AccurateRip v2 signature : EBC34701
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 天海春香、菊地真、双海真美 - 咲きませ！！乙女塾 (JPCO01809390).m4a
+    Pre-gap length : 00:03:24
+
+    CRC32 hash               : F152D64A
+    CRC32 hash (skip zero)   : BDC40CAE
+    AccurateRip v1 signature : 49123F46
+    AccurateRip v2 signature : CF28181C
+        ->Accurately ripped (v2, confidence 30/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 天海春香、菊地真、双海真美 - 咲きませ！！乙女塾 (オリジナル・カラオケ) (JPCO01809399).m4a
+    Pre-gap length : 00:01:49
+
+    CRC32 hash               : 3CF294A3
+    CRC32 hash (skip zero)   : 146E6E0E
+    AccurateRip v1 signature : 4257E43A
+    AccurateRip v2 signature : 1CAE755A
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
