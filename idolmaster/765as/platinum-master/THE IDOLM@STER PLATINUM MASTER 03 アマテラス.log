@@ -1,0 +1,135 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-07-01 15:01:03 +0900
+
+萩原雪歩、三浦あずさ、四条貴音、秋月律子 / THE IDOLM@STER PLATINUM MASTER 03 アマテラス
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 05:22:56 |         0    |    24205   
+        2  | 05:22:56 | 20:59:04 |     24206    |   118634   
+        3  | 26:21:60 | 05:25:74 |    118635    |   143083   
+        4  | 31:47:59 | 06:50:48 |    143084    |   173881   
+        5  | 38:38:32 | 04:42:12 |    173882    |   195043   
+        6  | 43:20:44 | 04:40:25 |    195044    |   216068   
+
+AccurateRip Summary (DiscID: 000d4a08-00451aab-400b4006)
+    Track 01 : OK (v2, confidence 36/36)
+    Track 02 : OK (v2, confidence 35/35)
+    Track 03 : OK (v2, confidence 30/30)
+    Track 04 : OK (v2, confidence 35/35)
+    Track 05 : OK (v2, confidence 36/36)
+    Track 06 : OK (v2, confidence 30/30)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 萩原雪歩、三浦あずさ、四条貴音、秋月律子 - アマテラス (M@STER VERSION) (JPCO01635600).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : F875A3B4
+    CRC32 hash (skip zero)   : 374AE733
+    AccurateRip v1 signature : 2A8B5A6F
+    AccurateRip v2 signature : DF6EEDC4
+        ->Accurately ripped (v2, confidence 36/36)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 [dialogue] - 765チャンネル vol.3 〜天照突破アマテラス〜 (ドラマ) (JPCO01629970).m4a
+    Pre-gap length : 00:01:27
+
+    CRC32 hash               : 66B5FA77
+    CRC32 hash (skip zero)   : 843ECAD6
+    AccurateRip v1 signature : 725CB952
+    AccurateRip v2 signature : 18316F55
+        ->Accurately ripped (v2, confidence 35/35)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 萩原雪歩、三浦あずさ、四条貴音、秋月律子 - アマテラス (M@STER VERSION) (オリジナル・カラオケ) (JPCO01635609).m4a
+    Pre-gap length : 00:01:55
+
+    CRC32 hash               : FF4D6E17
+    CRC32 hash (skip zero)   : 2CA26487
+    AccurateRip v1 signature : 0E372B10
+    AccurateRip v2 signature : 1C52A37F
+        ->Accurately ripped (v2, confidence 30/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 [dialogue] - 音無小鳥の妄想編集室 vol.3 (ドラマ) (JPCO01630000).m4a
+    Pre-gap length : 00:04:64
+
+    CRC32 hash               : F5F9D56D
+    CRC32 hash (skip zero)   : 7BBE334B
+    AccurateRip v1 signature : 5DD82C0A
+    AccurateRip v2 signature : 138570EB
+        ->Accurately ripped (v2, confidence 35/35)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 音無小鳥 featuring 高木順二朗 and you - 飛べない鳥は夜に鳴く (JPCO01635610).m4a
+    Pre-gap length : 00:02:29
+
+    CRC32 hash               : 2CA709CE
+    CRC32 hash (skip zero)   : 00DFC7C4
+    AccurateRip v1 signature : 96FC11A7
+    AccurateRip v2 signature : 685AEFEC
+        ->Accurately ripped (v2, confidence 36/36)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 音無小鳥 featuring 高木順二朗 and you - 飛べない鳥は夜に鳴く (オリジナル・カラオケ) (JPCO01635619).m4a
+    Pre-gap length : 00:02:11
+
+    CRC32 hash               : 6F99F538
+    CRC32 hash (skip zero)   : CB00CAA4
+    AccurateRip v1 signature : D61F7724
+    AccurateRip v2 signature : 92E08EFF
+        ->Accurately ripped (v2, confidence 30/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

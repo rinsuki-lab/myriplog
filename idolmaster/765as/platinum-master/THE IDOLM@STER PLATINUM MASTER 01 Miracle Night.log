@@ -1,0 +1,135 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-07-01 14:49:32 +0900
+
+天海春香、菊地真、双海亜美、双海真美、水瀬伊織、三浦あずさ / THE IDOLM@STER PLATINUM MASTER 01 Miracle Night
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:55:17 |         0    |    22141   
+        2  | 04:55:17 | 27:41:58 |     22142    |   146774   
+        3  | 32:37:00 | 04:57:45 |    146775    |   169094   
+        4  | 37:34:45 | 06:12:04 |    169095    |   196998   
+        5  | 43:46:49 | 05:15:06 |    196999    |   220629   
+        6  | 49:01:55 | 05:12:71 |    220630    |   244100   
+
+AccurateRip Summary (DiscID: 000f413e-004f0468-5f0cb606)
+    Track 01 : OK (v2, confidence 40/40)
+    Track 02 : OK (v2, confidence 38/38)
+    Track 03 : OK (v2, confidence 34/34)
+    Track 04 : OK (v2, confidence 38/38)
+    Track 05 : OK (v2, confidence 39/39)
+    Track 06 : OK (v2, confidence 34/34)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 天海春香、菊地真、双海亜美、双海真美、水瀬伊織 - Miracle Night (M@STER VERSION) (JPCO01629930).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : C70AD81E
+    CRC32 hash (skip zero)   : 783F09DB
+    AccurateRip v1 signature : 2C0D1BB5
+    AccurateRip v2 signature : 088855B7
+        ->Accurately ripped (v2, confidence 40/40)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 [dialogue] - 765チャンネル vol.1 〜起こせよミラクルナイト!〜 (ドラマ) (JPCO01629950).m4a
+    Pre-gap length : 00:01:61
+
+    CRC32 hash               : 0CA15FF9
+    CRC32 hash (skip zero)   : 02FEF203
+    AccurateRip v1 signature : 0398EB79
+    AccurateRip v2 signature : 5421E528
+        ->Accurately ripped (v2, confidence 38/38)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 天海春香、菊地真、双海亜美、双海真美、水瀬伊織 - Miracle Night (M@STER VERSION) (オリジナル・カラオケ) (JPCO01629939).m4a
+    Pre-gap length : 00:02:42
+
+    CRC32 hash               : D1405ED3
+    CRC32 hash (skip zero)   : AF5880DC
+    AccurateRip v1 signature : 4FEA5BDC
+    AccurateRip v2 signature : CCDEE4F5
+        ->Accurately ripped (v2, confidence 34/34)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 [dialogue] - 音無小鳥の妄想編集室 vol.1 (ドラマ) (JPCO01629980).m4a
+    Pre-gap length : 00:04:34
+
+    CRC32 hash               : 62917B62
+    CRC32 hash (skip zero)   : E22DB62A
+    AccurateRip v1 signature : 421460B8
+    AccurateRip v2 signature : 68976615
+        ->Accurately ripped (v2, confidence 38/38)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 水瀬伊織、三浦あずさ、双海亜美 - SMOKY FRUITS (JPCO01629940).m4a
+    Pre-gap length : 00:02:10
+
+    CRC32 hash               : 2CD4EC4E
+    CRC32 hash (skip zero)   : C8994E50
+    AccurateRip v1 signature : C344AC3E
+    AccurateRip v2 signature : E17B41BF
+        ->Accurately ripped (v2, confidence 39/39)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 水瀬伊織、三浦あずさ、双海亜美 - SMOKY FRUITS (オリジナル・カラオケ) (JPCO01629949).m4a
+    Pre-gap length : 00:02:51
+
+    CRC32 hash               : ABBD6F09
+    CRC32 hash (skip zero)   : 0FFB91F8
+    AccurateRip v1 signature : 2E0708B0
+    AccurateRip v2 signature : B8B0F068
+        ->Accurately ripped (v2, confidence 34/34)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
