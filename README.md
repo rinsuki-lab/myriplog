@@ -20,6 +20,14 @@ with this repository's files, you can:
 but **YOU CAN'T GET AUDIO DATA depends only to those logs.**
 for get actual data, you always need to original CD (or purchase audio data in online store).
 
+## Q. Why you are publishing those logs??
+
+some of discs are not have a enough number of AccurateRip hashes (e.g. [Splatoon 3 ORIGINAL SOUNDTRACK](./game/soundtrack/nintendo/splatoon)).
+
+also AccurateRip server _may_ gone or shutdown in the any point of future (theres no server that immortal in the world).
+
+so I'm making a sub-set backup of AccurateRip server, for my ripped discs.
+
 ## suffixes
 
 first
