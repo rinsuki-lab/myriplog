@@ -1,0 +1,118 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 14:19:34 +0900
+
+DiverDiva / Shadow Effect
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:56:47 |         0    |    17746   
+        2  | 03:56:47 | 04:21:65 |     17747    |    37386   
+        3  | 08:18:37 | 03:56:47 |     37387    |    55133   
+        4  | 12:15:09 | 04:23:16 |     55134    |    74874   
+        5  | 16:38:25 | 14:32:01 |     74875    |   140275   
+
+AccurateRip Summary (DiscID: 0004f72b-00182c5f-26074e05)
+    Track 01 : OK (v2, confidence 13/13)
+    Track 02 : OK (v2, confidence 13/13)
+    Track 03 : OK (v2, confidence 11/11)
+    Track 04 : OK (v2, confidence 11/11)
+    Track 05 : OK (v2, confidence 12/12)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 DiverDiva - Shadow Effect (JPI102202103).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : CF63BE10
+    CRC32 hash (skip zero)   : 4943EB1F
+    AccurateRip v1 signature : 8A719187
+    AccurateRip v2 signature : 2BD8E97C
+        ->Accurately ripped (v2, confidence 13/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 DiverDiva - Kiss the Sun (JPI102202104).m4a
+    Pre-gap length : 00:01:34
+
+    CRC32 hash               : 3B0D5FA9
+    CRC32 hash (skip zero)   : 450A0066
+    AccurateRip v1 signature : FBA45268
+    AccurateRip v2 signature : 46788473
+        ->Accurately ripped (v2, confidence 13/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 DiverDiva - Shadow Effect (Off Vocal) (JPI102202105).m4a
+    Pre-gap length : 00:01:69
+
+    CRC32 hash               : 028A35F6
+    CRC32 hash (skip zero)   : 2AE76EC7
+    AccurateRip v1 signature : 48B9BDB3
+    AccurateRip v2 signature : E2D1DE6F
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 DiverDiva - Kiss the Sun (Off Vocal) (JPI102202106).m4a
+    Pre-gap length : 00:01:35
+
+    CRC32 hash               : 81DFA97B
+    CRC32 hash (skip zero)   : 89B73EFD
+    AccurateRip v1 signature : 0529A924
+    AccurateRip v2 signature : 2D97094A
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 [dialogue] - 怪盗を捕まえろ!? (JPI102202107).m4a
+    Pre-gap length : 00:03:20
+
+    CRC32 hash               : 7802282C
+    CRC32 hash (skip zero)   : A29D1920
+    AccurateRip v1 signature : ED861DA4
+    AccurateRip v2 signature : 0628BE17
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

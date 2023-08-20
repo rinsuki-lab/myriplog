@@ -1,0 +1,118 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 15:14:16 +0900
+
+様々なアーティスト / THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 08
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:57:00 |         0    |    22274   
+        2  | 04:57:00 | 04:16:17 |     22275    |    41491   
+        3  | 09:13:17 | 04:13:03 |     41492    |    60469   
+        4  | 13:26:20 | 03:37:30 |     60470    |    76774   
+        5  | 17:03:50 | 04:22:35 |     76775    |    96459   
+
+AccurateRip Summary (DiscID: 00048a00-0014f566-3d050605)
+    Track 01 : OK (v2, confidence 11/11)
+    Track 02 : OK (v2, confidence 11/11)
+    Track 03 : OK (v2, confidence 11/11)
+    Track 04 : OK (v2, confidence 11/11)
+    Track 05 : OK (v2, confidence 11/11)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 高坂海美 (CV.上田麗奈) - 美！美！美！ビルドUP!! (JPI102201891).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 366D2E16
+    CRC32 hash (skip zero)   : 5CD96C8D
+    AccurateRip v1 signature : 7DF03545
+    AccurateRip v2 signature : 8F1755E8
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 桜守歌織 (CV.香里有佐) - Contrastet (JPI102201892).m4a
+    Pre-gap length : 00:02:07
+
+    CRC32 hash               : 43702407
+    CRC32 hash (skip zero)   : 11CD4AE0
+    AccurateRip v1 signature : 0EEAA641
+    AccurateRip v2 signature : 3C88697B
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 双海亜美 (CV.下田麻美) - オン・ステージ・プレーヤー！ (JPI102201893).m4a
+    Pre-gap length : 00:02:51
+
+    CRC32 hash               : CBF180C1
+    CRC32 hash (skip zero)   : D49EAEEA
+    AccurateRip v1 signature : FE4859D3
+    AccurateRip v2 signature : 07FF2624
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 島原エレナ (CV.角元明日香) - 愛のMagic! Once Again! (JPI102201894).m4a
+    Pre-gap length : 00:03:08
+
+    CRC32 hash               : 1CA2FA5F
+    CRC32 hash (skip zero)   : 56FBCBC9
+    AccurateRip v1 signature : AACC5F0B
+    AccurateRip v2 signature : 5BE90F38
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 水瀬伊織 (CV.釘宮理恵) - ピンクローズアプローズ (JPI102201895).m4a
+    Pre-gap length : 00:02:45
+
+    CRC32 hash               : 31B9C32B
+    CRC32 hash (skip zero)   : 6511DC2E
+    AccurateRip v1 signature : D8B730FA
+    AccurateRip v2 signature : 980B158D
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

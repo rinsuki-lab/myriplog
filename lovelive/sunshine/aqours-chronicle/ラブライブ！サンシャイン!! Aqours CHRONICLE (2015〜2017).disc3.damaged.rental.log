@@ -1,0 +1,186 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-20 19:20:18 +0900
+
+Aqours / ラブライブ！サンシャイン!! Aqours CHRONICLE (2015〜2017)
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 3
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:10:27 |         0    |    18776   
+        2  | 04:10:27 | 04:25:56 |     18777    |    38707   
+        3  | 08:36:08 | 04:10:40 |     38708    |    57497   
+        4  | 12:46:48 | 05:02:69 |     57498    |    80216   
+        5  | 17:49:42 | 04:56:18 |     80217    |   102434   
+        6  | 22:45:60 | 05:44:53 |    102435    |   128287   
+        7  | 28:30:38 | 04:36:48 |    128288    |   149035   
+        8  | 33:07:11 | 04:43:67 |    149036    |   170327   
+        9  | 37:51:03 | 04:47:25 |    170328    |   191877   
+
+AccurateRip Summary (DiscID: 000e4ccd-0069eada-7c09fe09)
+    Track 01 : OK (v2, confidence 33/33)
+    Track 02 : OK (v2, confidence 30/30)
+    Track 03 : OK (v2, confidence 33/33)
+    Track 04 : OK (v2, confidence 33/33)
+    Track 05 : OK (v2, confidence 33/33)
+    Track 06 : OK (v2, confidence 32/32)
+    Track 07 : OK (v2, confidence 32/32)
+    Track 08 : NG (total 33 submissions)
+    Track 09 : OK (v2, confidence 33/33)
+        ->8 tracks accurately ripped, 1 track not
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 Aqours - 未来の僕らは知ってるよ (JPI101702159).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 88D21ADB
+    CRC32 hash (skip zero)   : 383B83FA
+    AccurateRip v1 signature : F94C516C
+    AccurateRip v2 signature : 12C01943
+        ->Accurately ripped (v2, confidence 33/33)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 Aqours - MY舞☆TONIGHT (JPI101702292).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : BCA46255
+    CRC32 hash (skip zero)   : 0BCB463D
+    AccurateRip v1 signature : BD90AC5E
+    AccurateRip v2 signature : B5749FA7
+        ->Accurately ripped (v2, confidence 30/30)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 Aqours - MIRACLE WAVE (JPI101702293).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : 53CE124E
+    CRC32 hash (skip zero)   : A2457333
+    AccurateRip v1 signature : 2A5CC151
+    AccurateRip v2 signature : 73526C46
+        ->Accurately ripped (v2, confidence 33/33)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 Aqours - 空も心も晴れるから (9人Ver) (JPI102001235).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : 3E95512F
+    CRC32 hash (skip zero)   : 853A36AD
+    AccurateRip v1 signature : 5AE76105
+    AccurateRip v2 signature : 0B9955AC
+        ->Accurately ripped (v2, confidence 33/33)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 Saint Aqours Snow - Awaken the power (JPI101702478).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : E68B58B8
+    CRC32 hash (skip zero)   : C95A63FD
+    AccurateRip v1 signature : DEC5D9CE
+    AccurateRip v2 signature : F687055F
+        ->Accurately ripped (v2, confidence 33/33)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 Aqours - WATER BLUE NEW WORLD (JPI101702833).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : 46206623
+    CRC32 hash (skip zero)   : 6D4A07E0
+    AccurateRip v1 signature : 451F37E5
+    AccurateRip v2 signature : 47D09E73
+        ->Accurately ripped (v2, confidence 32/32)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 Aqours - WONDERFUL STORIES (JPI101702834).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : 220DFF8B
+    CRC32 hash (skip zero)   : B46370AF
+    AccurateRip v1 signature : FB097DEB
+    AccurateRip v2 signature : 226E306B
+        ->Accurately ripped (v2, confidence 32/32)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 Aqours - 勇気はどこに?君の胸に! (JPI101702288).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : 1480FFBB
+    CRC32 hash (skip zero)   : CFF9562F
+    AccurateRip v1 signature : D3D70D99
+    AccurateRip v2 signature : 4C314E7B
+        ->Rip may not be accurate (total 33 submissions).
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 Aqours - キセキヒカル (JPI101801598).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : E75DEC0F
+    CRC32 hash (skip zero)   : E09E80FC
+    AccurateRip v1 signature : AF1026F5
+    AccurateRip v2 signature : 84E2A8DD
+        ->Accurately ripped (v2, confidence 33/33)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Some inconsistencies found
+
+End of status report

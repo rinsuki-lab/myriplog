@@ -1,0 +1,118 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 13:26:49 +0900
+
+様々なアーティスト / THE IDOLM@STER SideM GROWING SIGN@L 15 Take a StuMp!
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:57:51 |         0    |    22325   
+        2  | 04:57:51 | 04:12:08 |     22326    |    41233   
+        3  | 09:09:59 | 04:43:63 |     41234    |    62521   
+        4  | 13:53:47 | 04:57:51 |     62522    |    84847   
+        5  | 18:51:23 | 04:09:12 |     84848    |   103534   
+
+AccurateRip Summary (DiscID: 0004cc61-00165655-39056405)
+    Track 01 : OK (v2, confidence 5/5)
+    Track 02 : OK (v2, confidence 5/5)
+    Track 03 : OK (v2, confidence 5/5)
+    Track 04 : OK (v2, confidence 5/5)
+    Track 05 : OK (v2, confidence 5/5)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 315 ALLSTARS - Take a StuMp! (JPI102201987).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 17E01103
+    CRC32 hash (skip zero)   : F99CB33B
+    AccurateRip v1 signature : 2CCFCC23
+    AccurateRip v2 signature : BF300AC0
+        ->Accurately ripped (v2, confidence 5/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 315 STARS(天ヶ瀬冬馬、天道輝、天峰秀) - True Horizon (JPI102200173).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : CC394C70
+    CRC32 hash (skip zero)   : F26A12AF
+    AccurateRip v1 signature : 3588CA9E
+    AccurateRip v2 signature : D17D955D
+        ->Accurately ripped (v2, confidence 5/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 315 STARS(斉藤孝司) - DRIVE A LIVE (JPI102201988).m4a
+    Pre-gap length : 00:02:71
+
+    CRC32 hash               : 59C05F75
+    CRC32 hash (skip zero)   : 2271E88F
+    AccurateRip v1 signature : 699C6F24
+    AccurateRip v2 signature : 5396C2CC
+        ->Accurately ripped (v2, confidence 5/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 THE IDOLM@STER SideM - Take a StuMp! (off vocal) (JPI102201989).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 7740F644
+    CRC32 hash (skip zero)   : 001C2F17
+    AccurateRip v1 signature : 4C164CD4
+    AccurateRip v2 signature : 9AA5EBD6
+        ->Accurately ripped (v2, confidence 5/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 THE IDOLM@STER SideM - True Horizon (off vocal) (JPI102201990).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 0264C27A
+    CRC32 hash (skip zero)   : E197CC82
+    AccurateRip v1 signature : D48252D6
+    AccurateRip v2 signature : A58D7E36
+        ->Accurately ripped (v2, confidence 5/5)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

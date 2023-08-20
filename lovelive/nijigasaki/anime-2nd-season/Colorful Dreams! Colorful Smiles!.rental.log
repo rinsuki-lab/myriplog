@@ -1,0 +1,101 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 15:52:54 +0900
+
+虹ヶ咲学園スクールアイドル同好会 / Colorful Dreams! Colorful Smiles!
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:24:55 |         0    |    19854   
+        2  | 04:24:55 | 04:14:28 |     19855    |    38932   
+        3  | 08:39:08 | 04:24:48 |     38933    |    58780   
+        4  | 13:03:56 | 04:12:35 |     58781    |    77715   
+
+AccurateRip Summary (DiscID: 0002fad5-000be7b6-2c040c04)
+    Track 01 : OK (v2, confidence 21/21)
+    Track 02 : OK (v2, confidence 21/21)
+    Track 03 : OK (v2, confidence 20/20)
+    Track 04 : OK (v2, confidence 20/20)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 虹ヶ咲学園スクールアイドル同好会 - Colorful Dreams! Colorful Smiles! (JPI102200626).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : EA10A7FA
+    CRC32 hash (skip zero)   : B8F68A9C
+    AccurateRip v1 signature : 9308CD93
+    AccurateRip v2 signature : 49AAB34C
+        ->Accurately ripped (v2, confidence 21/21)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 虹ヶ咲学園スクールアイドル同好会 - トワイライト (JPI102200627).m4a
+    Pre-gap length : 00:01:71
+
+    CRC32 hash               : D215FCD8
+    CRC32 hash (skip zero)   : 24BAAF0F
+    AccurateRip v1 signature : 0DB31E2B
+    AccurateRip v2 signature : 9197B5D5
+        ->Accurately ripped (v2, confidence 21/21)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 虹ヶ咲学園スクールアイドル同好会 - Colorful Dreams! Colorful Smiles! (Off Vocal) (JPI102200628).m4a
+    Pre-gap length : 00:02:08
+
+    CRC32 hash               : 1B551914
+    CRC32 hash (skip zero)   : C98DF38D
+    AccurateRip v1 signature : 6C5DB895
+    AccurateRip v2 signature : E02F8B4C
+        ->Accurately ripped (v2, confidence 20/20)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 虹ヶ咲学園スクールアイドル同好会 - トワイライト (Off Vocal) (JPI102200629).m4a
+    Pre-gap length : 00:01:68
+
+    CRC32 hash               : CB78AA46
+    CRC32 hash (skip zero)   : 85E243E1
+    AccurateRip v1 signature : 99F78CB5
+    AccurateRip v2 signature : 4121E986
+        ->Accurately ripped (v2, confidence 20/20)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

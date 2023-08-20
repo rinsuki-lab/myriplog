@@ -1,0 +1,288 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 19:22:17 +0900
+
+Aqours / ラブライブ！サンシャイン!! Aqours CHRONICLE (2018〜2020)
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 2
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:37:74 |         0    |    20848   
+        2  | 04:37:74 | 04:38:29 |     20849    |    41727   
+        3  | 09:16:28 | 05:19:23 |     41728    |    65675   
+        4  | 14:35:51 | 05:13:41 |     65676    |    89191   
+        5  | 19:49:17 | 04:59:62 |     89192    |   111678   
+        6  | 24:49:04 | 04:36:65 |    111679    |   132443   
+        7  | 29:25:69 | 05:28:12 |    132444    |   157055   
+        8  | 34:54:06 | 05:29:17 |    157056    |   181747   
+        9  | 40:23:23 | 04:17:46 |    181748    |   201068   
+       10  | 44:40:69 | 04:37:15 |    201069    |   221858   
+       11  | 49:18:09 | 04:45:03 |    221859    |   243236   
+       12  | 54:03:12 | 04:26:16 |    243237    |   263202   
+       13  | 58:29:28 | 04:57:47 |    263203    |   285524   
+       14  | 63:27:00 | 04:28:71 |    285525    |   305695   
+       15  | 67:55:71 | 05:32:37 |    305696    |   330632   
+
+AccurateRip Summary (DiscID: 002875ca-01ca3689-eb11380f)
+    Track 01 : OK (v2, confidence 28/28)
+    Track 02 : OK (v2, confidence 28/28)
+    Track 03 : OK (v2, confidence 28/28)
+    Track 04 : OK (v2, confidence 28/28)
+    Track 05 : OK (v2, confidence 28/28)
+    Track 06 : OK (v2, confidence 28/28)
+    Track 07 : OK (v2, confidence 28/28)
+    Track 08 : OK (v2, confidence 28/28)
+    Track 09 : OK (v2, confidence 28/28)
+    Track 10 : OK (v2, confidence 28/28)
+    Track 11 : OK (v2, confidence 28/28)
+    Track 12 : OK (v2, confidence 28/28)
+    Track 13 : OK (v2, confidence 27/27)
+    Track 14 : OK (v2, confidence 28/28)
+    Track 15 : OK (v2, confidence 27/27)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 Aqours - Jump up HIGH!! (JPI101900937).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 98F5155F
+    CRC32 hash (skip zero)   : 6F263E04
+    AccurateRip v1 signature : 8EFC8FE1
+    AccurateRip v2 signature : 4F8B2E02
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 Aqours - 冒険Type A, B, C!! (JPI101901042).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : F78783D3
+    CRC32 hash (skip zero)   : D0204F3F
+    AccurateRip v1 signature : B810A2D6
+    AccurateRip v2 signature : A96C4B80
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 Aqours - 未体験HORIZON (JPI101901395).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : EC0AF7AA
+    CRC32 hash (skip zero)   : C200D0A7
+    AccurateRip v1 signature : 24F64E76
+    AccurateRip v2 signature : 8DB5F162
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 Aqours - Deep Resonance (JPI101901396).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 6ADE24D1
+    CRC32 hash (skip zero)   : A2F68FB8
+    AccurateRip v1 signature : E4E4F950
+    AccurateRip v2 signature : 0763BD2F
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 Aqours - Dance with Minotaurus (JPI101901397).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 161C3613
+    CRC32 hash (skip zero)   : 1940002C
+    AccurateRip v1 signature : 7B385038
+    AccurateRip v2 signature : B54B9341
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 Aqours - KOKORO Magic "A to Z" (JPI101901642).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 720A497E
+    CRC32 hash (skip zero)   : 362CB2E0
+    AccurateRip v1 signature : A3AB7587
+    AccurateRip v2 signature : 9C307CCC
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 Aqours - Wake up, Challenger!! (JPI101901643).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : F9A9E44F
+    CRC32 hash (skip zero)   : ABD042BF
+    AccurateRip v1 signature : EAD47735
+    AccurateRip v2 signature : A93A78AA
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 Aqours - Fantastic Departure! (JPI102000640).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B1739D3E
+    CRC32 hash (skip zero)   : FD08F582
+    AccurateRip v1 signature : 3B41DFB1
+    AccurateRip v2 signature : 4C507054
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 Aqours - Aqours Pirates Desire (JPI102000641).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 858117BA
+    CRC32 hash (skip zero)   : C1AAE896
+    AccurateRip v1 signature : D457F08A
+    AccurateRip v2 signature : B948C907
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/xld-out/10 Aqours - JIMO-AI Dash! (JPI102000938).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 29B5FCC6
+    CRC32 hash (skip zero)   : A2420CED
+    AccurateRip v1 signature : EBD3406A
+    AccurateRip v2 signature : 4B48E99E
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/user/Desktop/xld-out/11 国木田花丸(CV.高槻かなこ)、黒澤ルビィ(CV.降幡 愛) - キモチもユメも一緒だね! (JPI102001804).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 2BCA13A1
+    CRC32 hash (skip zero)   : 0A81D9F6
+    AccurateRip v1 signature : 532C2B8A
+    AccurateRip v2 signature : 3E07AAC6
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/user/Desktop/xld-out/12 松浦果南(CV.諏訪ななか)、小原鞠莉(CV.鈴木愛奈) - 涙が雪になる前に (JPI102001805).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 0A0AF43D
+    CRC32 hash (skip zero)   : 804258AA
+    AccurateRip v1 signature : BDEA0497
+    AccurateRip v2 signature : 89D1F7CE
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 13
+    Filename : /Users/user/Desktop/xld-out/13 桜内梨子(CV.逢田梨香子)、渡辺 曜(CV.斉藤朱夏) - Misty Frosty Love (JPI102001806).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B81CA21E
+    CRC32 hash (skip zero)   : 566C896B
+    AccurateRip v1 signature : CA7AB10F
+    AccurateRip v2 signature : 38ED812B
+        ->Accurately ripped (v2, confidence 27/27)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 14
+    Filename : /Users/user/Desktop/xld-out/14 高海千歌(CV.伊波杏樹)、黒澤ダイヤ(CV.小宮有紗)、津島善子(CV.小林愛香) - Party! Party! PaPaPaParty! (JPI102001807).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : D907A070
+    CRC32 hash (skip zero)   : 55C2093C
+    AccurateRip v1 signature : C729EE05
+    AccurateRip v2 signature : 38D4A559
+        ->Accurately ripped (v2, confidence 28/28)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 15
+    Filename : /Users/user/Desktop/xld-out/15 Aqours - 涙× (JPI102102591).m4a
+    Pre-gap length : 00:01:74
+
+    CRC32 hash               : 9DFB181A
+    CRC32 hash (skip zero)   : A45DEA6A
+    AccurateRip v1 signature : D6141D87
+    AccurateRip v2 signature : DF9D9DDE
+        ->Accurately ripped (v2, confidence 27/27)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

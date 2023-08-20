@@ -1,0 +1,118 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 14:09:50 +0900
+
+R3BIRTH / Vroom Vroom
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:36:55 |         0    |    16254   
+        2  | 03:36:55 | 03:06:50 |     16255    |    30254   
+        3  | 06:43:30 | 03:36:43 |     30255    |    46497   
+        4  | 10:19:73 | 03:08:55 |     46498    |    60652   
+        5  | 13:28:53 | 10:03:19 |     60653    |   105896   
+
+AccurateRip Summary (DiscID: 0003f5e6-00130aab-28058305)
+    Track 01 : OK (v2, confidence 11/11)
+    Track 02 : OK (v2, confidence 11/11)
+    Track 03 : OK (v2, confidence 9/9)
+    Track 04 : OK (v2, confidence 9/9)
+    Track 05 : OK (v2, confidence 10/10)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 R3BIRTH - Vroom Vroom (JPI102202098).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : FF8CD276
+    CRC32 hash (skip zero)   : 923BE8A9
+    AccurateRip v1 signature : 79B1F73C
+    AccurateRip v2 signature : 54887BA9
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 R3BIRTH - バブルオーバー! (JPI102202099).m4a
+    Pre-gap length : 00:00:70
+
+    CRC32 hash               : A7874122
+    CRC32 hash (skip zero)   : 5765F9EF
+    AccurateRip v1 signature : 47BE1C09
+    AccurateRip v2 signature : A948E996
+        ->Accurately ripped (v2, confidence 11/11)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 R3BIRTH - Vroom Vroom (Off Vocal) (JPI102202100).m4a
+    Pre-gap length : 00:01:70
+
+    CRC32 hash               : 600E801C
+    CRC32 hash (skip zero)   : 7FEC46D4
+    AccurateRip v1 signature : 7D9002F4
+    AccurateRip v2 signature : 49B1F4DA
+        ->Accurately ripped (v2, confidence 9/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 R3BIRTH - バブルオーバー! (Off Vocal) (JPI102202101).m4a
+    Pre-gap length : 00:00:69
+
+    CRC32 hash               : 0C799A54
+    CRC32 hash (skip zero)   : 53573766
+    AccurateRip v1 signature : 469E494A
+    AccurateRip v2 signature : 8A35E4A1
+        ->Accurately ripped (v2, confidence 9/9)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 [dialogue] - トキメキキャニオンに吹く風・R3BIRTH (JPI102202102).m4a
+    Pre-gap length : 00:04:00
+
+    CRC32 hash               : 57103E56
+    CRC32 hash (skip zero)   : C218762F
+    AccurateRip v1 signature : 2D6020AE
+    AccurateRip v2 signature : 37866AA1
+        ->Accurately ripped (v2, confidence 10/10)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

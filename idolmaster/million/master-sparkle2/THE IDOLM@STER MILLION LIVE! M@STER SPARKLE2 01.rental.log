@@ -1,0 +1,118 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 18:38:12 +0900
+
+様々なアーティスト / THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 2
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:32:54 |         0    |    20453   
+        2  | 04:32:54 | 03:44:14 |     20454    |    37267   
+        3  | 08:16:68 | 04:21:10 |     37268    |    56852   
+        4  | 12:38:03 | 04:16:73 |     56853    |    76125   
+        5  | 16:55:01 | 03:38:03 |     76126    |    92478   
+
+AccurateRip Summary (DiscID: 0004522c-0014132d-3a04d105)
+    Track 01 : OK (v2, confidence 19/19)
+    Track 02 : OK (v2, confidence 19/19)
+    Track 03 : OK (v2, confidence 19/19)
+    Track 04 : OK (v2, confidence 19/19)
+    Track 05 : OK (v2, confidence 19/19)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 ジュリア (愛美) - アロー彗星 (JPI102102492).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : B5B08EC9
+    CRC32 hash (skip zero)   : CA976F9A
+    AccurateRip v1 signature : 7B031BF1
+    AccurateRip v2 signature : 9E0238C1
+        ->Accurately ripped (v2, confidence 19/19)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 北沢志保 (雨宮 天) - Purple Sky (JPI102102493).m4a
+    Pre-gap length : 00:02:06
+
+    CRC32 hash               : A12BE7F6
+    CRC32 hash (skip zero)   : 4C73F10C
+    AccurateRip v1 signature : 5982B482
+    AccurateRip v2 signature : C2BC2649
+        ->Accurately ripped (v2, confidence 19/19)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 野々原 茜 (小笠原早紀) - K・A・W・A・I・I of the WORLD！ (JPI102102494).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : 345C4C55
+    CRC32 hash (skip zero)   : D262C209
+    AccurateRip v1 signature : 65D89B31
+    AccurateRip v2 signature : C79127DB
+        ->Accurately ripped (v2, confidence 19/19)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 佐竹美奈子 (大関英里) - あたためますか？ (JPI102102495).m4a
+    Pre-gap length : 00:02:44
+
+    CRC32 hash               : A96C5AC2
+    CRC32 hash (skip zero)   : 44B18E52
+    AccurateRip v1 signature : 9EC419E8
+    AccurateRip v2 signature : ED292038
+        ->Accurately ripped (v2, confidence 19/19)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 天海春香 (中村繪里子) - HAPPY♪STEPPING‼︎DREAMING☆ (JPI102102496).m4a
+    Pre-gap length : 00:03:06
+
+    CRC32 hash               : 0405A48D
+    CRC32 hash (skip zero)   : 32FFC1CE
+    AccurateRip v1 signature : F72E7277
+    AccurateRip v2 signature : 281D8BEC
+        ->Accurately ripped (v2, confidence 19/19)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

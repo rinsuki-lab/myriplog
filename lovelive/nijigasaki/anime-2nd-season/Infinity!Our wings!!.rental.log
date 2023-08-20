@@ -1,0 +1,101 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 15:25:29 +0900
+
+A・ZU・NA / Infinity!Our wings!!
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:31:08 |         0    |    20332   
+        2  | 04:31:08 | 04:47:31 |     20333    |    41888   
+        3  | 09:18:39 | 04:30:66 |     41889    |    62204   
+        4  | 13:49:30 | 04:46:17 |     62205    |    83671   
+
+AccurateRip Summary (DiscID: 00032ce3-000cb7ea-25045b04)
+    Track 01 : OK (v2, confidence 14/14)
+    Track 02 : OK (v2, confidence 14/14)
+    Track 03 : OK (v2, confidence 13/13)
+    Track 04 : OK (v2, confidence 13/13)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 A・ZU・NA - Infinity!Our wings!! (JPI102201093).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 9F0DBF29
+    CRC32 hash (skip zero)   : 9D539ACF
+    AccurateRip v1 signature : F0AE4EA3
+    AccurateRip v2 signature : CC5027B7
+        ->Accurately ripped (v2, confidence 14/14)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 A・ZU・NA - Poker face＆お願い!Fairy (JPI102201094).m4a
+    Pre-gap length : 00:01:47
+
+    CRC32 hash               : 2728D3E1
+    CRC32 hash (skip zero)   : 29B319F0
+    AccurateRip v1 signature : 19D2AF67
+    AccurateRip v2 signature : 12057BF2
+        ->Accurately ripped (v2, confidence 14/14)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 A・ZU・NA - Infinity!Our wings!! (Off Vocal) (JPI102201095).m4a
+    Pre-gap length : 00:01:40
+
+    CRC32 hash               : 67D32D4A
+    CRC32 hash (skip zero)   : 22163452
+    AccurateRip v1 signature : CFC40526
+    AccurateRip v2 signature : 0857D7B6
+        ->Accurately ripped (v2, confidence 13/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 A・ZU・NA - Poker face＆お願い!Fairy (Off Vocal) (JPI102201096).m4a
+    Pre-gap length : 00:01:48
+
+    CRC32 hash               : DCDA92F0
+    CRC32 hash (skip zero)   : F200B1EA
+    AccurateRip v1 signature : DFE1F19A
+    AccurateRip v2 signature : 400C61C5
+        ->Accurately ripped (v2, confidence 13/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

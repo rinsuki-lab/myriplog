@@ -1,0 +1,101 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 15:35:47 +0900
+
+DiverDiva / Eternal Light
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:06:67 |         0    |    18516   
+        2  | 04:06:67 | 03:48:16 |     18517    |    35632   
+        3  | 07:55:08 | 04:06:30 |     35633    |    54112   
+        4  | 12:01:38 | 03:46:30 |     54113    |    71092   
+
+AccurateRip Summary (DiscID: 0002bc9c-000aec4b-2e03b304)
+    Track 01 : OK (v2, confidence 17/17)
+    Track 02 : OK (v2, confidence 17/17)
+    Track 03 : OK (v2, confidence 16/16)
+    Track 04 : OK (v2, confidence 16/16)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 DiverDiva - Eternal Light (JPI102200999).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : FF25644F
+    CRC32 hash (skip zero)   : 1D6AD591
+    AccurateRip v1 signature : 61485204
+    AccurateRip v2 signature : 8C843580
+        ->Accurately ripped (v2, confidence 17/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 DiverDiva - 恋するMagic!! (JPI102201000).m4a
+    Pre-gap length : 00:00:25
+
+    CRC32 hash               : F9C3C4BA
+    CRC32 hash (skip zero)   : 1C9499D6
+    AccurateRip v1 signature : 17BBE877
+    AccurateRip v2 signature : 4299B9E6
+        ->Accurately ripped (v2, confidence 17/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 DiverDiva - Eternal Light (Off Vocal) (JPI102201001).m4a
+    Pre-gap length : 00:01:70
+
+    CRC32 hash               : A11C51A2
+    CRC32 hash (skip zero)   : 684F689F
+    AccurateRip v1 signature : 06D5A26E
+    AccurateRip v2 signature : 8C4252DE
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 DiverDiva - 恋するMagic!! (Off Vocal) (JPI102201002).m4a
+    Pre-gap length : 00:00:22
+
+    CRC32 hash               : 302C59F3
+    CRC32 hash (skip zero)   : 9A155A46
+    AccurateRip v1 signature : D78D03B2
+    AccurateRip v2 signature : 14AF9167
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

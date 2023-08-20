@@ -1,0 +1,101 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 15:44:40 +0900
+
+QU4RTZ / ENJOY IT!
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:13:58 |         0    |    19032   
+        2  | 04:13:58 | 03:48:59 |     19033    |    36191   
+        3  | 08:02:42 | 04:13:46 |     36192    |    55212   
+        4  | 12:16:13 | 03:46:73 |     55213    |    72235   
+
+AccurateRip Summary (DiscID: 0002c992-000b1e63-3003c304)
+    Track 01 : OK (v2, confidence 13/13)
+    Track 02 : OK (v2, confidence 13/13)
+    Track 03 : OK (v2, confidence 12/12)
+    Track 04 : OK (v2, confidence 12/12)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 QU4RTZ - ENJOY IT! (JPI102200806).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 3CBF4AA2
+    CRC32 hash (skip zero)   : 3784885C
+    AccurateRip v1 signature : 562D06A8
+    AccurateRip v2 signature : A484BA0E
+        ->Accurately ripped (v2, confidence 13/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 QU4RTZ - 4 SEASONS (JPI102200807).m4a
+    Pre-gap length : 00:00:67
+
+    CRC32 hash               : 9170100D
+    CRC32 hash (skip zero)   : DED0BA7C
+    AccurateRip v1 signature : 4158608E
+    AccurateRip v2 signature : 295C6B9D
+        ->Accurately ripped (v2, confidence 13/13)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 QU4RTZ - ENJOY IT! (Off Vocal) (JPI102200808).m4a
+    Pre-gap length : 00:01:70
+
+    CRC32 hash               : 90FA49F4
+    CRC32 hash (skip zero)   : 1848DE97
+    AccurateRip v1 signature : 263AFE01
+    AccurateRip v2 signature : 9267D35E
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 QU4RTZ - 4 SEASONS (Off Vocal) (JPI102200809).m4a
+    Pre-gap length : 00:00:66
+
+    CRC32 hash               : 0F3FBB38
+    CRC32 hash (skip zero)   : 027DC35D
+    AccurateRip v1 signature : 9CFC6898
+    AccurateRip v2 signature : 8B4B60DE
+        ->Accurately ripped (v2, confidence 12/12)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

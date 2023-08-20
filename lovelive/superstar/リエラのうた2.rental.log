@@ -1,0 +1,226 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 14:02:47 +0900
+
+Liella! / リエラのうた2
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:34:22 |         0    |    16071   
+        2  | 03:34:22 | 03:33:74 |     16072    |    32120   
+        3  | 07:08:21 | 02:35:66 |     32121    |    43811   
+        4  | 09:44:12 | 02:35:66 |     43812    |    55502   
+        5  | 12:20:03 | 03:31:73 |     55503    |    71400   
+        6  | 15:52:01 | 03:31:72 |     71401    |    87297   
+        7  | 19:23:73 | 03:16:07 |     87298    |   102004   
+        8  | 22:40:05 | 03:37:38 |    102005    |   118317   
+        9  | 26:17:43 | 03:38:37 |    118318    |   134704   
+       10  | 29:56:05 | 03:41:29 |    134705    |   151308   
+       11  | 33:37:34 | 03:41:29 |    151309    |   167912   
+       12  | 37:18:63 | 03:50:29 |    167913    |   185191   
+
+AccurateRip Summary (DiscID: 0011c951-00a6dd0e-a009a50c)
+    Track 01 : OK (v2, confidence 4/4)
+    Track 02 : OK (v2, confidence 4/4)
+    Track 03 : OK (v2, confidence 4/4)
+    Track 04 : OK (v2, confidence 4/4)
+    Track 05 : OK (v2, confidence 4/4)
+    Track 06 : OK (v2, confidence 4/4)
+    Track 07 : OK (v2, confidence 4/4)
+    Track 08 : OK (v2, confidence 4/4)
+    Track 09 : OK (v2, confidence 4/4)
+    Track 10 : OK (v2, confidence 4/4)
+    Track 11 : OK (v2, confidence 4/4)
+    Track 12 : OK (v2, confidence 4/4)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 澁谷かのん (CV.伊達さゆり) - Dreamer Coaster (JPI102202193).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : A165C97E
+    CRC32 hash (skip zero)   : 132D3FED
+    AccurateRip v1 signature : 3BDEE791
+    AccurateRip v2 signature : 6F9D45F8
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 桜小路きな子 (CV.鈴原希実) - Dreamer Coaster (JPI102202194).m4a
+
+    CRC32 hash               : 88078530
+    CRC32 hash (skip zero)   : 84EF3FD7
+    AccurateRip v1 signature : 4FCCC7E6
+    AccurateRip v2 signature : C9BD79AA
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 唐可可 (CV.Liyuu) - エンドレスサーキット (JPI102202195).m4a
+
+    CRC32 hash               : A1B8D720
+    CRC32 hash (skip zero)   : 7022829B
+    AccurateRip v1 signature : CEF1A8BE
+    AccurateRip v2 signature : FBC73842
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 平安名すみれ (CV.ペイトン尚未) - エンドレスサーキット (JPI102202196).m4a
+
+    CRC32 hash               : C7D5087B
+    CRC32 hash (skip zero)   : 25B44887
+    AccurateRip v1 signature : 8907125B
+    AccurateRip v2 signature : 125AC2B7
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 葉月恋 (CV.青山なぎさ) - 迷宮讃歌 (JPI102202197).m4a
+
+    CRC32 hash               : 9D93C1B5
+    CRC32 hash (skip zero)   : 413018C1
+    AccurateRip v1 signature : D6CD8BE5
+    AccurateRip v2 signature : 7052EBF0
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 06
+    Filename : /Users/user/Desktop/xld-out/06 鬼塚夏美 (CV.絵森彩) - 迷宮讃歌 (JPI102202198).m4a
+
+    CRC32 hash               : B7615D0B
+    CRC32 hash (skip zero)   : EB5374C2
+    AccurateRip v1 signature : 851243BF
+    AccurateRip v2 signature : 5448196D
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 07
+    Filename : /Users/user/Desktop/xld-out/07 Liella! - プライム・アドベンチャー (JPI102202199).m4a
+
+    CRC32 hash               : 4C91438B
+    CRC32 hash (skip zero)   : EA7CEC88
+    AccurateRip v1 signature : A8BA6E3A
+    AccurateRip v2 signature : A4CC8F5F
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 08
+    Filename : /Users/user/Desktop/xld-out/08 米女メイ (CV.薮島朱音) - パレードはいつも (JPI102202200).m4a
+
+    CRC32 hash               : 1964794E
+    CRC32 hash (skip zero)   : CF02DEFC
+    AccurateRip v1 signature : 551A1936
+    AccurateRip v2 signature : 038A231A
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 09
+    Filename : /Users/user/Desktop/xld-out/09 若菜四季 (CV.大熊和奏) - パレードはいつも (JPI102202201).m4a
+
+    CRC32 hash               : 3E612AD3
+    CRC32 hash (skip zero)   : 848F66CC
+    AccurateRip v1 signature : 384048D0
+    AccurateRip v2 signature : 36057653
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 10
+    Filename : /Users/user/Desktop/xld-out/10 嵐千砂都 (CV.岬なこ) - 駆けるメリーゴーランド (JPI102202202).m4a
+
+    CRC32 hash               : FD59A772
+    CRC32 hash (skip zero)   : 28D6FF65
+    AccurateRip v1 signature : 6B9053B7
+    AccurateRip v2 signature : FB8FA3BB
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 11
+    Filename : /Users/user/Desktop/xld-out/11 澁谷かのん (CV.伊達さゆり) - 駆けるメリーゴーランド (JPI102202203).m4a
+
+    CRC32 hash               : A2BE84D3
+    CRC32 hash (skip zero)   : 86D32FFA
+    AccurateRip v1 signature : 26A529DB
+    AccurateRip v2 signature : E1313EAF
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 12
+    Filename : /Users/user/Desktop/xld-out/12 Liella! - Time to go (JPI102202204).m4a
+
+    CRC32 hash               : CAEF3552
+    CRC32 hash (skip zero)   : C688DD18
+    AccurateRip v1 signature : 4A9D1C38
+    AccurateRip v2 signature : 5D23F5C5
+        ->Accurately ripped (v2, confidence 4/4)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report

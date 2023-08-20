@@ -1,0 +1,118 @@
+X Lossless Decoder version 20230627 (156.1)
+
+XLD extraction logfile from 2023-08-19 16:02:38 +0900
+
+R3BIRTH / MONSTER GIRLS
+
+Used drive : PIONEER BD-RW   BDR-XD05 (revision 3.10)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 667
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 03:56:56 |         0    |    17755   
+        2  | 03:56:56 | 03:49:25 |     17756    |    34955   
+        3  | 07:46:06 | 04:06:47 |     34956    |    53452   
+        4  | 11:52:53 | 03:59:01 |     53453    |    71378   
+        5  | 15:51:54 | 09:51:71 |     71379    |   115774   
+
+AccurateRip Summary (DiscID: 000479c7-0015732a-3e060705)
+    Track 01 : OK (v2, confidence 17/17)
+    Track 02 : OK (v2, confidence 17/17)
+    Track 03 : OK (v2, confidence 17/17)
+    Track 04 : OK (v2, confidence 17/17)
+    Track 05 : OK (v2, confidence 16/16)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/user/Desktop/xld-out/01 R3BIRTH - MONSTER GIRLS (JPI102102228).m4a
+    Pre-gap length : 00:02:00
+
+    CRC32 hash               : 67247214
+    CRC32 hash (skip zero)   : B6477A03
+    AccurateRip v1 signature : 5B80FCAF
+    AccurateRip v2 signature : ADD2B929
+        ->Accurately ripped (v2, confidence 17/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 02
+    Filename : /Users/user/Desktop/xld-out/02 三船栞子 (CV.小泉萌香) - 翠いカナリア (JPI102102229).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : E2A9C5B6
+    CRC32 hash (skip zero)   : 6390A714
+    AccurateRip v1 signature : 8183E42C
+    AccurateRip v2 signature : 5B11EF0E
+        ->Accurately ripped (v2, confidence 17/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 03
+    Filename : /Users/user/Desktop/xld-out/03 ミア・テイラー (CV.内田秀) - I’m Still... (JPI102102230).m4a
+    Pre-gap length : 00:01:35
+
+    CRC32 hash               : 47FC5C18
+    CRC32 hash (skip zero)   : BDFF4FEE
+    AccurateRip v1 signature : D33DE8DA
+    AccurateRip v2 signature : 2DF4E628
+        ->Accurately ripped (v2, confidence 17/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 04
+    Filename : /Users/user/Desktop/xld-out/04 鐘嵐珠 (CV.法元明菜) - Queendom (JPI102102231).m4a
+    Pre-gap length : 00:01:36
+
+    CRC32 hash               : E9F1B909
+    CRC32 hash (skip zero)   : C12ADBFC
+    AccurateRip v1 signature : D11422D2
+    AccurateRip v2 signature : E8C3C176
+        ->Accurately ripped (v2, confidence 17/17)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 05
+    Filename : /Users/user/Desktop/xld-out/05 [dialogue] - The glorious fairies (JPI102102232).m4a
+    Pre-gap length : 00:02:36
+
+    CRC32 hash               : F6480FED
+    CRC32 hash (skip zero)   : 26056BB4
+    AccurateRip v1 signature : 03A979C9
+    AccurateRip v2 signature : AC480179
+        ->Accurately ripped (v2, confidence 16/16)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
